@@ -1,0 +1,501 @@
+drug_id,drug_name,brand_name,category,supplier_id,unit_price,stock_quantity
+1,Ibuprofen,McKesson,Corticosteroids,407,96.5,9050
+2,Witch Hazel,"Supervalu, Inc",Antipsychotics,272,181.68,3744
+3,Dicyclomine Hydrochloride,A-S Medication Solutions LLC,Antipsychotics,472,89.83,866
+4,FENTANYL,Mylan Pharmaceuticals Inc.,Vitamins & Supplements,450,173.99,8690
+5,Bacitracin,"Preferred Pharmaceuticals, Inc",Blood thinners,264,191.67,7045
+6,Olanzapine,Dr.Reddy's laboratories Ltd.,Insulin,450,145.17,5358
+7,benazepril hydrochloride and hydrochlorothiazide,"Rising Pharmaceuticals, Inc.",Antihistamines,43,248.95,1077
+8,Pussy Willow,"Nelco Laboratories, Inc.",Antipsychotics,53,102.47,1484
+9,AMLODIPINE BESYLATE,American Health Packaging,Insulin,443,113.09,7676
+10,perampanel,Eisai Inc.,Proton Pump Inhibitors (PPIs),249,198.24,5277
+11,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",Energizer Personal Care LLC,Antivirals,456,28.62,2906
+12,"Standardized Grass Pollen, Grass Mix 4",Jubilant HollisterStier LLC,Proton Pump Inhibitors (PPIs),487,125.91,4481
+13,not applicable,"BioActive Nutritional, Inc.",Antidepressants,96,44.31,7201
+14,OCTINOXATE,Estee Lauder Inc.,Antihypertensives,248,178.1,8205
+15,TRICLOSAN,HARRIS TEETER,Hormones,205,144.49,9132
+16,Phenylephrine HCl,CHAIN DRUG MARKETING ASSOCIATION INC,Antihypertensives,447,228.05,7327
+17,SARSAPARILLA ROOT,Washington Homeopathic Products,nalgesics,31,37.15,717
+18,NICOTINE,Cardinal Health,Antacids,441,41.02,1550
+19,Propranolol Hydrochloride,"Upsher-Smith Laboratories, Inc.",Antifungals,405,120.35,5663
+20,"Acetaminophen, Diphenhydramine HCl",Rite Aid Corporation,Hormones,406,168.72,3023
+21,Birch White,"ALK-Abello, Inc.",Insulin,146,245.79,8265
+22,"octocrylene, octinoxate, oxybenzone,octisalate, avobenzone","Biopelle, Inc.",Antihistamines,72,206.38,2647
+23,Bambusa Viscum Stannum,Uriel Pharmacy Inc.,Blood thinners,338,204.27,2375
+24,Ethyl Alcohol,"Wal-Mart Stores, Inc.",Anticonvulsants,320,206.78,1805
+25,Cetirizine Hydrochloride,Torrent Pharmaceuticals Limited,Antivirals,462,123.08,2028
+26,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",Poly Pharmaceuticals,Bronchodilators,389,30.04,969
+27,"Clematis Recta Flowering Top, Conium Maculatum Flowering Top, Lycopodium Clavatum Spore, Mercuric Chloride, Pulsatilla Vulgaris, Saw Palmetto, Selenium, Sepia Officinalis Juice, Delphinium Staphisagria Seed, Thuja Occidentalis Leafy Twig","Natural Creations, Inc.",Proton Pump Inhibitors (PPIs),383,100.74,6889
+28,Diltiazem Hydrochloride,Actavis Elizabeth LLC,Antipsychotics,160,25.62,5891
+29,zinc oxide,Sion Biotext Medical Ltd,Antivirals,492,157.98,8649
+30,Acetaminophen,American Sales Company,Statins,491,97.42,239
+31,"TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE","THEFACESHOP CO., LTD",Hormones,178,162.46,8785
+32,ALCOHOL,"Evonik Stockhausen, LLC",Antidepressants,355,149.37,1396
+33,Menthol,The Mentholatum Company,Vitamins & Supplements,391,23.51,3907
+34,Zinc oxide,Central Solutions Inc,Hormones,233,215.71,7487
+35,Miconazole nitrate,Kroger Company,Blood thinners,125,24.03,1529
+36,"Menthol, zinc oxide",McKesson,Diuretics,447,62.85,6493
+37,Banana,"Nelco Laboratories, Inc.",Antibiotics,141,21.66,3924
+38,Ibuprofen,"DOLGENCORP, LLC",Vitamins & Supplements,68,201.68,1639
+39,Albumin (Human),CSL Behring LLC,Antihypertensives,385,137.46,4247
+40,Hydrochlorothiazide,St Marys Medical Park Pharmacy,nalgesics,117,208.63,630
+41,Helminthosporium solani Spondylocladium,"ALK-Abello, Inc.",nalgesics,169,180.31,6077
+42,TITANIUM DIOXIDE,Laboratoires Clarins S.A.,Statins,177,145.98,8526
+43,"Arnica montana, Lilium tigrinum, Aurum muriaticum, Cactus grandiflorus, Digitalis purpurea, Glonoinum, Nux vomica, Veratrum album,",Apotheca Company,Antipsychotics,377,154.0,5151
+44,Normal Saline with Phenol,Hollister-Stier Laboratories LLC,Antifungals,179,6.95,4438
+45,Methamphetamine Hydrochloride,Mylan Pharmaceuticals Inc.,Blood thinners,40,30.93,3930
+46,Octinoxate and Oxybenzone,"Ventura Corporation (San Juan, P.R)",Antivirals,85,10.04,493
+47,RAMIPRIL,Atlantic Biologicals Corps,Antivirals,452,215.71,9414
+48,Zolmitriptan,Rebel Distributors Corp,Antihypertensives,413,211.82,5161
+49,TRETINOIN,Oceanside Pharmaceuticals,Vitamins & Supplements,223,130.09,5403
+50,Aluminum Zirconium Tetrachlorohydrex GLY,VVF Illinois Services,Antidepressants,419,87.87,5982
+51,Acitretin,Teva Pharmaceuticals USA Inc,Anticonvulsants,490,115.47,9609
+52,vorapaxar,Merck Sharp & Dohme Corp.,Antacids,268,208.1,2913
+53,Ibuprofen,Legacy Pharmaceutical Packaging,Immunosuppressants,93,59.58,1536
+54,Plantago lanceolata,"Allermed Laboratories, Inc.",Anticonvulsants,84,220.47,9370
+55,diazepam,Unit Dose Services,Antivirals,405,190.25,6107
+56,Sword Fish,"Nelco Laboratories, Inc.",Corticosteroids,399,69.65,2582
+57,Capsicum oleoresin,Qualitest Pharmaceuticals,Corticosteroids,268,237.91,1587
+58,Nitrogen,ILMO Products Company,Corticosteroids,284,194.81,614
+59,Isopropyl alcohol,North Safety Products,Corticosteroids,306,185.08,3643
+60,Grama Grass,"Nelco Laboratories, Inc.",Antacids,358,222.71,2464
+61,CEFOTETAN and DEXTROSE,B. Braun Medical Inc.,Diuretics,40,198.3,5855
+62,"Acetaminophen, Aspirin and Caffeine",WALGREEN CO.,nalgesics,104,125.44,8201
+63,OCTINOXATE,Kosan Kozmetik Sanayi ve Ticaret A.S.,Antifungals,231,173.48,2994
+64,OCTINOXATE and ZINC OXIDE,KANEBO COSMETICS INC.,Hormones,85,36.34,4597
+65,Esomeprazole magnesium,Bryant Ranch Prepack,Corticosteroids,431,201.72,5907
+66,Nabumetone,"AvKARE, Inc.",Antacids,246,117.47,2585
+67,Octinoxate and Oxybenzone,Ventura International LTD,Antidepressants,500,149.75,5223
+68,Menthol,Mondelez Global LLC,Antacids,329,61.4,8609
+69,Scopulariopsis,"Antigen Laboratories, Inc.",Bronchodilators,460,50.78,3140
+70,DOCUSATE SODIUM,"EQUATE (Walmart Stores, Inc.)",Antivirals,234,119.55,7921
+71,Amoxicillin and Clavulanate Potassium,"Preferred Pharmaceuticals, Inc.",nalgesics,52,31.54,1928
+72,Lansoprazole,Army & Air Force Exchange Service,Bronchodilators,157,235.51,1551
+73,Nitrous Oxide,"Red Ball Oxygen Co., Inc.",Antivirals,337,32.67,4079
+74,Ephinephrine,"General Injectables & Vaccines, Inc",Antibiotics,272,102.33,1509
+75,TOPIRAMATE,Rebel Distributors Corp,Antacids,193,186.46,943
+76,zonisamide,Eisai Inc.,Statins,369,12.9,3394
+77,Isopropyl alcohol,Zeus Medical Holdings LLC,Anticonvulsants,74,89.67,5785
+78,Eszopiclone,Dr. Reddy's Laboratories Limited,Hormones,84,45.85,4048
+79,OCTINOXATE,"Elizabeth Arden, Inc",Antidepressants,294,124.31,8821
+80,propionibacterium acnes,Sanum Kehlbeck GmbH & Co. KG,Antibiotics,416,49.86,4485
+81,fluorescein sodium,Akorn,nalgesics,145,84.64,7639
+82,Amlodipine Besylate,Teva Pharmaceuticals USA Inc,Antibiotics,413,96.06,9627
+83,Miconazole nitrate,Western Family Foods Inc,Antivirals,447,15.31,6768
+84,Parachlorometaxylenol,"Morgan Gallacher, Inc. DBA Custom Chemical Formulators, Inc.",Immunosuppressants,149,230.4,1633
+85,Desipramine Hydrochloride,Rebel Distributors Corp,Antihistamines,4,99.19,8079
+86,SODIUM MONOFLUOROPHOSPHATE,Mission Hills S.A de C.V,Proton Pump Inhibitors (PPIs),96,135.8,3145
+87,Benzethonium chloride,Reckitt Benckiser LLC,Hormones,36,219.1,3193
+88,"Avobenzone, Octisalate and Octocrylene",L'Oreal USA Products Inc,Corticosteroids,31,54.78,1705
+89,salicylic acid,Summers Laboratories Inc,Bronchodilators,14,79.21,8747
+90,zinc acetate,Phillips Company,Proton Pump Inhibitors (PPIs),177,142.69,7795
+91,Lisinopril,"NCS HealthCare of KY, Inc dba Vangard Labs",Statins,295,246.07,2080
+92,"APIS MELLIFERA, BRYONIA ALBA ROOT, CALCIUM FLUORIDE, LITHIUM CARBONATE, TOXICODENDRON PUBESCENS LEAF, RUTA GRAVEOLENS FLOWERING TOP, SALICYLIC ACID",TRP Company,Antipsychotics,473,140.93,7999
+93,Hydrocortisone,Cosmetic Enterprises Ltd.,Antifungals,226,197.08,6602
+94,Lidocaine Hydrochloride,"Roxane Laboratories,Inc",Bronchodilators,15,79.85,2183
+95,"methyl salicylate, dl-camphor, l-menthol","Sato Pharmaceutical Co., Ltd.",nalgesics,54,188.68,7731
+96,Magnesium Salicylate Tetrahydrate,Rite Aid,Insulin,21,101.33,6996
+97,Black Birch,"Nelco Laboratories, Inc.",Hormones,190,102.42,751
+98,Ramipril,Carilion Materials Management,Antipsychotics,106,91.62,4241
+99,"Chlorpheniramine maleate, Phenylephrine HCl",Meijer Distribution Inc,Anticonvulsants,353,73.53,6742
+100,ALPRAZOLAM,Rising Pharmaceuticals Inc,nalgesics,179,39.27,9252
+101,Ursodiol,AvPAK,Diuretics,79,96.69,2667
+102,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",CVS Pharmacy,Statins,470,34.67,9114
+103,Antiperspirant,Neat Feat Products Limited,Antipsychotics,472,106.12,2748
+104,"Kali bich, Pulsatilla, Hepar sulph , Thuja occ , Spigelia anth",Feelgood Health,Antihistamines,241,227.33,2350
+105,methylprednisolone sodium succinate,REMEDYREPACK INC.,Hormones,139,100.65,5837
+106,"Aconitum napellus, Bromium, Coccus Cacti, Corallium Rubrum, Cuprum Metallicum, Drosera Rotundifolia, Hepar Sulphuris Calcareum, Iodium, Mephitis Mephitica, Spongia Tosta",Ionx Holdings d/b/a Hello Life Inc.,Statins,6,112.46,5264
+107,Dermatophagoides pteronyssinus,"Allergy Laboratories, Inc.",Blood thinners,190,219.3,5619
+108,"Allium cepa, Antimonium tartaricum, Arnica montana, Baptisia tinctoria, Eupatorium perfoliatum, Gelsemium sempervirens, Kali bichromicum, Lachesis mutus, Mercurius iodatus ruber, Sticta pulmonaria, Sulphur iodatum, Urtica urens",Eight and Company,Antipsychotics,295,37.74,8411
+109,desipramine hydrochloride,Winthrop U.S.,Antihistamines,286,55.1,2187
+110,White Alder,"Nelco Laboratories, Inc.",Antihypertensives,271,70.13,3643
+111,Wheat Bran,"Nelco Laboratories, Inc.",Antivirals,264,224.93,1328
+112,OATMEAL,"UNOCOS CO., LTD.",Statins,120,243.55,5498
+113,Olanzapine,Eli Lilly and Company,Immunosuppressants,461,165.37,5279
+114,Octinoxate and Oxybenzone,Ventura Corporation LTD.,Antibiotics,123,176.44,7405
+115,Lidocaine Hydrochloride,REMEDYREPACK INC.,Immunosuppressants,136,184.83,1199
+116,Fluconazole,"Taro Pharmaceuticals U.S.A., Inc.",Vitamins & Supplements,140,226.69,9496
+117,Diltiazem Hydrochloride,Valeant Pharmaceuticals North America LLC,Antidepressants,131,92.38,2787
+118,Crab,"Nelco Laboratories, Inc.",Statins,474,123.48,5353
+119,lemon,"Allergy Laboratories, Inc.",Antipsychotics,44,29.17,1877
+120,HEPARIN SODIUM,"Hospira, Inc.",Diuretics,37,231.4,6970
+121,Castor Oil,McKesson,Proton Pump Inhibitors (PPIs),103,168.64,9861
+122,mustard seed,"Allergy Laboratories, Inc.",Immunosuppressants,144,249.87,1302
+123,brussels sprout,"Allergy Laboratories, Inc.",Antibiotics,60,222.84,6352
+124,TETRACYCLINE HYDROCHLORIDE,Phillips Company,Blood thinners,81,43.26,8033
+125,Salicylic Acid,China Ningbo Shangge Cosmetic Technology Corp.,Hormones,18,184.01,7121
+126,POVIDONE-IODINE,Topco Associates LLC,Proton Pump Inhibitors (PPIs),482,245.22,3015
+127,Isosulfan Blue,AnazaoHealth Corporation,Antipsychotics,299,184.0,8066
+128,Disulfiram,"Rising Pharmaceuticals, Inc.",Antihistamines,266,153.26,7046
+129,Treatment Set TS330534,"Antigen Laboratories, Inc.",Immunosuppressants,372,211.37,2299
+130,Quinapril,Lake Erie Medical DBA Quality Care Products LLC,Bronchodilators,378,60.68,1553
+131,"OXYBENZONE, PADIMATE",Aruba Aloe Balm NV,Blood thinners,125,90.41,5386
+132,PAROXETINE HYDROCHLORIDE,State of Florida DOH Central Pharmacy,Diuretics,310,245.46,9623
+133,Bethanechol Chloride,Amneal Pharmaceuticals,Antidepressants,155,193.2,5814
+134,Ibuprofen,Western Family Foods Inc,Antipsychotics,151,48.98,5004
+135,Aqua Foundation,"Koh Gen Do USA, Inc",Antidepressants,368,112.54,9080
+136,DIMETHICONE,"NATURE REPUBLIC CO., LTD.",Blood thinners,498,17.24,6301
+137,Amoxicillin,Aidarex Pharmaceuticals LLC,Antivirals,225,114.39,3287
+138,Apis Aconitum,Uriel Pharmacy Inc.,Antidepressants,116,125.23,1808
+139,Hydrocodone Bitartrate And Acetaminophen,"Altura Pharmaceuticals, Inc.",Antipsychotics,39,50.62,7309
+140,amlodipine besylate and valsartan,Novartis Pharmaceuticals Corporation,Antihistamines,104,22.35,9277
+141,ALCOHOL,"PSS World Medical, Inc.",Antibiotics,245,67.48,6447
+142,Benzoyl Peroxide,University Medical Pharmaceuticals Corp,Antidepressants,229,54.39,7979
+143,Menthol,AMAR REMEDIES LIMITED,Antibiotics,427,9.76,8788
+144,Sotalol Hydrochloride,Qualitest Pharmaceuticals,Antihypertensives,281,37.35,8812
+145,Furosemide,McKesson Packaging Services a business unit of McKesson Corporation,Antacids,424,37.31,8051
+146,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",L Perrigo Company,Immunosuppressants,192,246.86,3842
+147,Felodipine,Citron Pharma LLC,Vitamins & Supplements,133,20.74,9926
+148,"PIPERACILLIN SODIUM,TAZOBACTAM SODIUM","APP Pharmaceuticals, LLC",Bronchodilators,386,74.09,3932
+149,OCTINOXATE,WALGREEN CO.,nalgesics,328,234.2,9047
+150,Famciclovir,Teva Pharmaceuticals USA Inc,Antacids,453,6.83,6192
+151,pyridostigmine bromide,Valeant Pharmaceuticals North America LLC,Antivirals,218,174.17,9012
+152,Polyethylene Glycol 3350,Safeway,Hormones,90,91.93,1500
+153,Metformin Hydrochloride,LUPIN PHARMACEUTICALS INC,Antibiotics,125,166.13,2362
+154,Miconazole nitrate,Kroger Company,Antivirals,383,5.22,9170
+155,Rivastigmine Tartrate,Dr.Reddy's Laboratories Limited,Antifungals,354,42.56,3188
+156,BENZALKONIUM CHLORIDE,WAL-MART STORE INC,Diuretics,338,131.26,1849
+157,"Uricum acidum, Benzoicum acidum, Berber. vulg., Bryonia, Cantharis, Carduus benedictus, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Dioscorea, Dolichos, Iris versicolor, Juniperus com., Nux vom.,Ptelea,Taraxacum, Carduus mar., Cynara scolymus, Solidago","Newton Laboratories, Inc.",Antipsychotics,96,44.11,9817
+158,"Bismuthum metallicum, Bryonia, Cimicifuga, Gossypium herbaceum, Ipecac., Kreosotum, Lycopodium, Mag. carb., Nux vom., Pulsatilla, Sepia, Symphoricarpus racemosus, Tabacum, Zingiber, Chamomilla, Hydrastis, Iris versicolor","Newton Laboratories, Inc.",Vitamins & Supplements,15,209.51,2703
+159,Aspirin,Rebel Distributors Corp,Immunosuppressants,10,159.74,1687
+160,"Ammonium muriaticum, Apis mellifica, Aurum metallicum, Borago officinalis, Causticum, Eriodictyon californicum, Gelsemium sempervirens, Ignatia amara, Natrum muriaticum, Ornithogalum umbellatum, flos, Phosphoricum acidum, Pinus sylvestris, flos, Rosa damascena, Taraxacum officinale",King Bio Inc.,Antibiotics,134,201.81,8902
+161,Ciprofloxacin,Ranbaxy Pharmaceuticals Inc.,nalgesics,230,169.72,3745
+162,Benazepril Hydrochloride,Unit Dose Services,Corticosteroids,458,78.2,4442
+163,Citalopram Hydrobromide,REMEDYREPACK INC.,Insulin,192,20.97,3361
+164,C Mold Mixture,"Antigen Laboratories, Inc.",Antidepressants,181,231.42,8932
+165,Diazepam,STAT Rx USA LLC,Antifungals,60,145.19,732
+166,"Kali muriaticum, Calcarea sulphurica, Sulphur, Mucor racemosus, Hydrastis canadensis, Kali bichromicum, Lachesis mutus, Mercurius sulphuratus ruber,","Deseret Biologicals, Inc.",Vitamins & Supplements,141,71.01,4164
+167,Olanzapine,AvPAK,Antidepressants,67,30.02,4207
+168,Burweed Marshelder,"ALK-Abello, Inc.",Statins,277,172.13,798
+169,Minoxidil,CVS Pharmacy,Vitamins & Supplements,41,9.31,3252
+170,"cocoa butter, phenylephrine HCl",Walgreen Company,Insulin,112,129.79,326
+171,strawberry,"Allergy Laboratories, Inc.",Vitamins & Supplements,448,43.78,7413
+172,alcohol,"GOJO Industries, Inc.",Diuretics,150,5.96,8891
+173,HALOPERIDOL LACTATE,Pfizer Laboratories Div Pfizer Inc,Blood thinners,3,19.54,3835
+174,verapamil hydrochloride,Mylan Pharmaceuticals Inc.,Immunosuppressants,130,191.84,9641
+175,ATORVASTATIN CALCIUM,Legacy Pharmaceutical Packaging,Statins,68,214.24,9707
+176,"Beta vulgaris, Boldo, Chelidonium majus, Petroselinum sativum, Taraxacum officinale, Arsenicum album, Belladonna, Cobaltum metallicum, Cuprum metallicum, Iodium, Lycopodium clavatum, Phosphoricum acidum, Selenium metallicum, Zincum metallicum,",Apotheca Company,Antivirals,247,131.2,9344
+177,TRICLOSAN,H.E.B.,Immunosuppressants,130,238.79,174
+178,atenolol,Mylan Institutional Inc.,Antivirals,244,237.94,9881
+179,Sertraline Hydrochloride,H.J. Harkins Company Inc.,Antihistamines,484,53.2,9708
+180,"Titanium Dioxide, Zinc Oxide",Fischer Pharmaceuticals Ltd,Corticosteroids,481,114.41,9988
+181,"Aconitum nap., Antimon. tart.,Arg. nit., Arnica, Bryonia, Chamomilla,Chelidonium majus, Cimicifuga, Eupatorium perf.,Hypericum, Nux vom., Rhus toxicodendron, Ruta,Sarcolacticum ac., Stramonium, Strychninum,Chamomilla, Phytolacca, Ruta, Symphytum.","Newton Laboratories, Inc.",Antipsychotics,353,29.91,8662
+182,Lorazepam,Excellium Pharmaceutical Inc.,Antihistamines,308,62.52,9909
+183,Titanium Dioxide and Octinoxate,Space Brands Limited,nalgesics,220,186.38,5858
+184,carbamazepine,Shire US Manufacturing Inc.,Anticonvulsants,361,10.88,4943
+185,quetiapine fumarate,"Lupin Pharmaceuticals, Inc.",Immunosuppressants,420,83.03,8183
+186,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone","MSD Consumer Care, Inc.",Antihistamines,151,75.35,2026
+187,Fluocinolone Acetonide,"Amneal Pharmaceuticals, LLC",Antifungals,482,22.2,8631
+188,pegloticase,Crealta Pharmaceuticals LLC,Antidepressants,48,165.05,1213
+189,Norethindrone,Mylan Pharmaceuticals Inc.,Antivirals,274,216.95,6453
+190,SODIUM FLUORIDE,"Mission Hills, S.A.de C.V.",Immunosuppressants,409,74.35,1604
+191,"Dimethicone, Octinoxate, and Oxybenzone",Blistex Inc,Corticosteroids,324,6.02,1341
+192,TRIAMTERENE AND HYDROCHLOROTHIAZIDE,REMEDYREPACK INC.,Vitamins & Supplements,477,144.03,3125
+193,Baclofen,Aidarex Pharmaceuticals LLC,Blood thinners,382,69.59,6800
+194,"ferrous gluconate, folic acid, cyanocobalamin, ascorbic acid and docusate sodium",Virtus Pharmaceuticals LLC,Insulin,292,91.66,8669
+195,BENZOCAINE and RESORCINOL,"Dolgencorp, inc",Vitamins & Supplements,23,162.36,1657
+196,Acetaminophen Chlorpheniramine Maleate Phenylepherine Hydrochloride,"Selder, S.A. de C.V.",Immunosuppressants,241,194.65,9441
+197,MORPHINE SULFATE,Pfizer Laboratories Div Pfizer Inc,Antivirals,80,26.29,2225
+198,Estradiol,"Watson Laboratories, Inc.",Diuretics,228,188.12,6671
+199,Titanium Dioxide,Coty US LLC,Hormones,17,36.78,9284
+200,divalproex sodium,Major Pharmaceuticals,Corticosteroids,290,189.17,1230
+201,Watercress,"Nelco Laboratories, Inc.",Antihistamines,89,93.62,7905
+202,Diphenhydramine HCl,Supervalu Inc,Insulin,43,141.81,1562
+203,Diphenhydramine HCL,"Preferred Pharmaceuticals, Inc.",Blood thinners,366,128.16,9184
+204,Donepezil Hydrochloride,"Physicians Total Care, Inc.",Antacids,464,151.29,5482
+205,LOSARTAN POTASSIUM,STAT Rx USA LLC,Proton Pump Inhibitors (PPIs),82,159.55,5131
+206,norgestimate and ethinyl estradiol,"Physicians Total Care, Inc.",Anticonvulsants,306,162.95,7512
+207,Camphor Menthol Methyl Salicylate,Uncle Bill Trading USA Inc.,Anticonvulsants,201,183.11,3456
+208,Rough (Redroot) Pigweed,"Antigen Laboratories, Inc.",Antibiotics,241,8.7,2480
+209,Triclosan,CONOPCO Inc. d/b/a Unilever,Blood thinners,314,175.91,4735
+210,GLIPIZIDE,REMEDYREPACK INC.,Antacids,231,50.8,7073
+211,Metoclopramide,"Physicians Total Care, Inc.",Antivirals,420,191.78,9992
+212,fenofibrate,Kowa Pharmaceuticals America Inc.,Antidepressants,397,5.2,1457
+213,isopropyl alcohol,"Yuyao Jessie Commodity Co.,Ltd.",Antipsychotics,246,17.98,1036
+214,Alcohol,"Greenbrier International, Inc.",Antivirals,425,234.27,9436
+215,Cortisone Acetate,"Golden State Medical Supply, Inc.",Antidepressants,209,48.06,6037
+216,White Petrolatum,Shopko,nalgesics,397,159.88,6950
+217,PRAVASTATIN SODIUM,"Lupin Pharmaceuticals, Inc.",nalgesics,365,122.44,9849
+218,Sodium Fluoride,"Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc.",Antivirals,123,151.24,884
+219,ziprasidone hydrochloride,Roerig,Diuretics,115,62.89,2262
+220,Ketorolac Tromethamine,"Apotheca, Inc",Antivirals,75,167.88,4937
+221,metoprolol tartrate,"PD-Rx Pharmaceuticals, Inc.",Corticosteroids,155,132.12,9129
+222,"Acetaminophen, Dextromethorphan Hydrobromide, Diphenhydramine Hydrochloride, Guaifenesin, and Phenylephrine Hydrochloride","AAA Pharmaceutical, Inc.",nalgesics,234,113.43,6360
+223,OXYMETAZOLINE HYDROCHLORIDE,"Greenbrier International, Inc.",Antivirals,393,117.85,2617
+224,oxaliplatin,Winthrop U.S.,nalgesics,385,235.14,9527
+225,fentanyl,"ProStrakan, Inc.",nalgesics,469,98.16,8503
+226,OXYMETAZOLINE HYDROCHLORIDE,"TAI GUK PHARM. CO., LTD.",Insulin,155,190.1,7822
+227,temazepam,Cardinal Health,Immunosuppressants,127,22.67,7489
+228,"OCTINOXATE, TITANIUM DIOXIDE, OXYBENZONE, AVOBENZONE",Lanocorp Pacific Ltd,Statins,401,76.86,1281
+229,famotidine,"Marathon Pharmaceuticals, LLC",nalgesics,347,172.82,6529
+230,nafcillin sodium,Sagent Pharmaceuticals,Antacids,64,241.26,7964
+231,Amoxicillin and Clavulanate Potassium,Hikma Pharmaceutical,Antibiotics,63,103.98,5750
+232,Pantoprazole Sodium,Proficient Rx LP,Antihistamines,237,76.0,9303
+233,PHENTERMINE HYDROCHLORIDE,"Dispensing Solutions, Inc.",Vitamins & Supplements,357,228.85,8730
+234,ETHYL ALCOHOL,RITE AID CORPORATION,Antacids,449,111.81,9352
+235,Acebutolol Hydrochloride,AvPAK,Antihistamines,214,134.43,4401
+236,"OCTINOXATE, OCTOCRYLENE, OCTISALATE, and OXYBENZONE","GANZ U.S.A., LLC",Blood thinners,390,139.08,8039
+237,pegloticase,Crealta Pharmaceuticals LLC,Antibiotics,6,119.32,1173
+238,CALCIUM CARBONATE,Bayer HealthCare Consumer Care,Antifungals,38,192.67,6575
+239,"Aconitum nap., Arg. nit., Arsenicum alb., Belladonna, Benzoicum acidum, Berber. vulg., Bryonia, Cantharis, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Coffea cruda, Conium, Gelsemium, Ignatia, Iris versicolor, Mezereum, Nux vom., Passiflora, Pulsatilla, Rhus toxicodendron, Scutellaria lateriflora, Staphysag., Chamomilla, Taraxacum, Valeriana","Newton Laboratories, Inc.",Antidepressants,232,40.18,3418
+240,Acetaminophen,Cardinal Health,Statins,407,128.58,6048
+241,Simethicone,AmerisourceBergen Drug Corporation (Good Neighbor Pharmacy) 24385,Insulin,421,59.44,906
+242,Phenytoin Sodium,TYA Pharmaceuticals,Antipsychotics,381,111.46,9477
+243,OLANZAPINE,STAT RX USA LLC,Antacids,101,9.15,9871
+244,Menthol and Methyl Salicylate,"Chattem, Inc.",Statins,25,139.1,8354
+245,Aluminum Zirconium Tetrachlorohydrex GLY,Conopco Inc. d/b/a Unilever,Antidepressants,458,249.01,2557
+246,furosemide,Sanofi-Aventis U.S. LLC,Insulin,345,54.9,9835
+247,"SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, and CALCIUM CHLORIDE","Hospira, Inc.",Antihistamines,81,81.61,8001
+248,Hydrogen Peroxide,Aaron Industries Inc.,Bronchodilators,50,161.98,8507
+249,Allergenic Extracts Alum Precipitated,"ALK-Abello, Inc.",Bronchodilators,457,182.53,8104
+250,fexofenadine hydrochloride,Safeway,Antipsychotics,247,120.4,6201
+251,"Water violet,",Apotheca Company,Statins,475,194.24,6498
+252,Carbidopa and Levodopa,"NCS HealthCare of KY, Inc dba Vangard Labs",Diuretics,218,239.75,3342
+253,ATORVASTATIN CALCIUM,Bryant Ranch Prepack,Vitamins & Supplements,104,180.25,3337
+254,Capsaicin,"Chattem, Inc.",Antihistamines,293,111.58,5057
+255,OXYGEN,"Grant County Medical Equipment, LLC",Antihistamines,105,108.07,5875
+256,Magnesium Salicylate,"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",Antivirals,445,70.53,5596
+257,OCTINOXATE and TITANIUM DIOXIDE,SHISEIDO AMERICAS CORPORATION,Proton Pump Inhibitors (PPIs),282,225.4,317
+258,"Lansoprazole, Amoxicillin and Clarithromycin",Sandoz Inc,Antihistamines,221,72.85,4425
+259,Ibuprofen,WALGREEN CO.,Antipsychotics,339,215.78,9086
+260,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate","Physicians Total Care, Inc.",Antihypertensives,359,188.51,7849
+261,abacavir sulfate,ViiV Healthcare Company,Antibiotics,408,73.23,5601
+262,Hydrocodone Bitartrate and Acetaminophen,Apotheca Inc.,Immunosuppressants,38,178.08,9709
+263,White Birch,"Nelco Laboratories, Inc.",Antihypertensives,354,223.59,5340
+264,ginkgo leaf extract,"Biogrand Co., Ltd",Corticosteroids,286,229.62,720
+265,Lisinopril,"PD-Rx Pharmaceuticals, Inc.",Bronchodilators,124,189.45,8021
+266,TRICLOSAN,HEB,nalgesics,52,16.57,3245
+267,Dill,"Nelco Laboratories, Inc.",Antibiotics,315,103.01,2591
+268,mucor racemosus,Sanum Kehlbeck GmbH & Co. KG,Antipsychotics,299,180.3,8704
+269,Salicylic Acid,"NSE Products, Inc.",Antipsychotics,119,231.66,3942
+270,Acetaminophen,Mckesson,Diuretics,24,27.05,5086
+271,Octinoxate and Oxybenzone,Ventura Corporation LTD,Antidepressants,169,230.94,9282
+272,"Eucalyptol, menthol, methyl salicylate, thymol",Meijer Distribution Inc.,Vitamins & Supplements,411,151.26,4034
+273,Hydrocodone Bitartrate and Acetaminophen,REMEDYREPACK INC.,Hormones,146,142.34,7484
+274,Cilostazol,"Roxane Laboratories, Inc",Antipsychotics,276,162.57,2845
+275,DOCUSATE SODIUM-SENNOSIDES,"Safecor Health, LLC",Insulin,392,204.06,1419
+276,Simethicone,WALGREEN CO.,Antivirals,351,237.25,6909
+277,"Butalbital, Aspirin and Caffeine","Dispensing Solutions, Inc.",Antivirals,335,158.38,1042
+278,POTASSIUM CHLORIDE,DIRECT RX,Antivirals,44,233.72,6239
+279,Nitrous Oxide,"Airgas Northern California and Nevada, Inc.",nalgesics,474,60.92,6841
+280,Chenopodium Mixture,"Antigen Laboratories, Inc.",Antihypertensives,151,123.01,2753
+281,"Piperonyl Butoxide, Pyrethrum Extract",Kroger Company,Corticosteroids,35,198.97,2632
+282,Triclosan,CONOPCO Inc. d/b/a Unilever,Anticonvulsants,179,148.73,2383
+283,LIDOCAINE HYDROCHLORIDE,Cardinal Health,Anticonvulsants,482,132.55,629
+284,POTASSIUM CHLORIDE,"Pharmaceutical Associates, Inc.",Antacids,182,15.91,2265
+285,Dextroamphetamine Saccharate and Amphetamine Aspartate and Dextroamphetamine Sulfate and Amphetamine Sulfate,"Mallinckrodt, Inc.",Insulin,199,87.43,7532
+286,Nimodipine,"Golden State Medical Supply, Inc.",Insulin,223,140.81,4633
+287,brompheniramine maleate and pseudoephedrine hydrochloride,ECR Pharmaceuticals,Insulin,324,155.85,4524
+288,Aluminum Chlorohydrate,Aruba Aloe Balm NV,Corticosteroids,494,158.62,5010
+289,CLADRIBINE,"Fresenius Kabi USA, LLC",nalgesics,113,192.93,5441
+290,Zinc Oxide,"Fallien Cosmeceuticals, LTD.",Diuretics,266,142.59,9883
+291,Amoxicillin,"Preferred Pharmaceuticals, Inc.",Antidepressants,69,168.36,6780
+292,Minocycline Hydrochloride,Lake Erie Medical DBA Quality Care Products LLC,Corticosteroids,246,64.11,7012
+293,Cephalexin,"PD-Rx Pharmaceuticals, Inc.",Anticonvulsants,16,230.1,8185
+294,Benzalkonium chloride,"Delta Brands, Inc",Antivirals,187,202.1,4198
+295,Sodium Chloride,CVS Pharmacy,Antihistamines,58,132.8,7779
+296,OXYCODONE HYDROCHLORIDE,"KVK-TECH,INC",Corticosteroids,372,50.94,6530
+297,Terazosin Hydrochloride,REMEDYREPACK INC.,Corticosteroids,387,234.1,4265
+298,Quetiapine Fumarate,"Roxane Laboratories, Inc.",Antidepressants,188,60.16,6779
+299,iva annua var. annua pollen,"Allergy Laboratories, Inc.",Statins,111,238.03,9595
+300,"dibasic sodium phosphate, monobasic sodium phosphate","Medline Industries, Inc.",Vitamins & Supplements,3,138.86,8841
+301,thiamine hydrochloride,Mylan Institutional LLC,Statins,215,239.92,3313
+302,"Avobenzone, Homosalate, Octinoxate, Octisalate",Goodier Cosmetics LP,Immunosuppressants,353,227.21,8108
+303,ALCOHOL,ENCHANTE ACCESSORIES INC.,Vitamins & Supplements,76,45.76,9179
+304,OXYGEN,"Johnson Drug Company, Inc",Corticosteroids,256,86.16,7428
+305,"ALUMINUM HYDROXIDE, MAGNESIUM CARBONATE",Simpex Pharma Pvt. Ltd,Antibiotics,222,78.4,1370
+306,Simvastatin,"Safecor Health, LLC",Proton Pump Inhibitors (PPIs),362,124.62,5202
+307,"Dimethicone, Octinoxate, Oxybenzone, Avobenzone, and Octocrylene",Blistex Inc.,Hormones,242,231.62,3117
+308,Ranitidine,Target Corporation,Blood thinners,138,204.8,8809
+309,Carbmazepine (Chewable),American Health Packaging,Antacids,194,206.21,8906
+310,metformin hydrochloride,Mylan Pharmaceuticals Inc.,Antacids,278,125.57,4764
+311,Acetaminophen,Cardinal Health,Hormones,496,109.54,6565
+312,Imipramine Hydrochloride,Sandoz Inc,nalgesics,377,61.07,5756
+313,Quetiapine Fumarate,Aurobindo Pharma Limited,Statins,458,77.53,6558
+314,dextromethorphan polistirex,Amerisource Bergen,Antibiotics,210,173.96,8794
+315,Gabapentin,"New Horizon Rx Group, LLC",Antihypertensives,310,214.54,7101
+316,LEDUM PALUSTRE,HOMEOLAB USA INC,Anticonvulsants,9,153.46,8045
+317,Famotidine,Mylan Institutional LLC,nalgesics,19,35.49,7397
+318,galantamine,Mylan Pharmaceuticals Inc.,Antivirals,17,71.28,2698
+319,"lactococcus lactis immunoserum rabbit, streptococcus pyogenes immunoserum rabbit, streptococcus viridans group immunoserum rabbit, staphylococcus epidermidis immunoserum rabbit, staphylococcus aureus",Sanum Kehlbeck GmbH & Co. KG,nalgesics,249,57.93,9379
+320,vancomycin hydrochloride,Sagent Pharmaceuticals,Antihistamines,12,10.69,6420
+321,Bupropion Hydrochloride,Actavis South Atlantic LLC,nalgesics,29,84.96,2869
+322,"Acetaminophen, Aspirin, and Caffeine",MOBERG PHARMA NORTH AMERICA LLC,Anticonvulsants,63,85.4,7303
+323,"OCTINOXATE, TITANIUM DIOXIDE",Guerlain S.A.,Antihistamines,273,152.52,1252
+324,Citalopram Hydrobromide,"Glenmark Generics Inc., USA",Insulin,125,155.94,4370
+325,Benzocaine,"Prestige Brands Holdings, Inc.",Corticosteroids,167,181.96,7661
+326,Risperidone,Dr. Reddy's Laboratories Limited,Vitamins & Supplements,201,30.07,4418
+327,Quetiapine Fumarate,REMEDYREPACK INC.,Corticosteroids,122,10.81,3761
+328,Pyrithione Zinc,Procter & Gamble Manufacturing Co.,Antihypertensives,1,159.82,649
+329,TITANIUM DIOXIDE,CHANEL PARFUMS BEAUTE,Anticonvulsants,70,185.3,1573
+330,Buspirone Hydrochloride,"NCS HealthCare of KY, Inc dba Vangard Labs",Hormones,246,23.52,8855
+331,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",AMOREPACIFIC,Antivirals,402,19.84,7667
+332,Aluminum Zirconium Tetrachlorohydrex GLY,Conopco Inc. d/b/a Unilever,Antidepressants,410,231.65,7702
+333,SODIUM MONOFLUOROPHOSPHATE,Mission Hills S.A de C.V,Blood thinners,186,210.45,2571
+334,Menthol,Aetna Felt Corp,Antibiotics,454,204.82,7676
+335,Tretinoin,"Physicians Total Care, Inc.",Insulin,288,135.54,7911
+336,ethyl alcohol,"Medline Industries, Inc.",Antihistamines,359,226.53,8746
+337,Imipramine Pamoate,"Roxane Laboratories, Inc",Antihistamines,280,213.54,134
+338,Triclosan,"Deb USA, Inc.",Proton Pump Inhibitors (PPIs),58,205.73,1301
+339,etodolac,"Physicians Total Care, Inc.",Hormones,1,244.52,843
+340,propranolol hydrochloride,Qualitest Pharmaceuticals,Statins,94,113.47,9456
+341,FENTANYL CITRATE,Mallinckrodt Inc.,nalgesics,14,21.43,3037
+342,Octinoxate,"Elizabeth Arden, Inc",Antifungals,265,123.76,1526
+343,GLYCERIN,"NATURE REPUBLIC CO., LTD.",Insulin,260,193.11,6989
+344,OCTINOXATE,WALGREEN CO.,Corticosteroids,172,126.16,7889
+345,Diphenhydramine hydrochloride and Phenylephrine hydrochloride,"McNeil Consumer Healthcare Div. McNeil-PPC, Inc",Insulin,135,233.8,3371
+346,tretinoin,"Physicians Total Care, Inc.",Anticonvulsants,484,88.46,709
+347,"famotidine, calcium carbonate and magnesium hydroxide",H E B,Bronchodilators,376,74.54,3896
+348,Clarithromycin,REMEDYREPACK INC.,Antacids,303,247.83,6887
+349,Benzalkonium Chloride,China Ningbo Shangge Cosmetic Technology Corp.,Antidepressants,305,96.91,3653
+350,Bryonia Spongia,Uriel Pharmacy Inc.,Antipsychotics,43,43.67,4980
+351,glipizide,REMEDYREPACK INC.,Antidepressants,374,34.43,1850
+352,ALCOHOL,"ABC Compounding Co., Inc.",Antivirals,81,87.62,7797
+353,PROMETHAZINE HYDROCHLORIDE,"H.J. Harkins Company, Inc.",Hormones,106,157.47,5908
+354,Ketoconazole,"Preferred Pharmaceuticals, Inc.",Antihistamines,92,168.39,4151
+355,Povidone-Iodine,Swabplus Inc.,Diuretics,10,211.13,6753
+356,Coal Tar,"Alva-Amco Pharmacal Companies, Inc.",Antifungals,242,206.86,8099
+357,Guaifenesin,Rebel Distributors Corp,Statins,363,214.83,3695
+358,Acetaminophen and Codeine,REMEDYREPACK INC.,Antivirals,376,72.81,4433
+359,ETHYL ALCOHOL,AMERICAN SALES COMPANY,Antidepressants,440,172.16,8163
+360,levofloxacin,"Preferred Pharmaceuticals, Inc.",Antidepressants,239,61.45,8315
+361,Dimethicone,"SEINDNI CO., LTD.",Antivirals,266,137.82,9218
+362,"carbidopa, levodopa and entacapone",Wockhardt Limited,Antipsychotics,277,101.25,2001
+363,"icodextrin, sodium chloride, sodium lactate, calcium chloride, magnesium chloride",Baxter Healthcare Corporation,Diuretics,389,179.02,5542
+364,Hydrocodone Bitartrate and Acetaminophen,American Health Packaging,Insulin,479,103.75,949
+365,"ACETAMINOPHEN, DIPHENHYDRAMINE, PHENYLEPHRINE","Novartis Consumer Health, Inc.",Insulin,365,85.46,2283
+366,Treatment Set TS333743,"Antigen Laboratories, Inc.",Antipsychotics,276,29.64,7592
+367,Dextromethorphan Hydrobromide / Guaifenesin,Kinray,Proton Pump Inhibitors (PPIs),44,173.97,9812
+368,"octinoxate, oxybenzone, petrolatum",Pfizer Consumer Healthcare,Blood thinners,108,103.93,9692
+369,Mucinex Cold and Sinus Maximum Strength,"Western Family Foods, Inc.",Antidepressants,7,196.07,4889
+370,OXYGEN,Atlanta Medical Gas LLC,Antihistamines,276,169.87,1237
+371,PULSATILLA VULGARIS,Washington Homeopathic Products,Bronchodilators,345,83.4,5196
+372,cyclosporine,Novartis Pharmaceuticals Corporation,Immunosuppressants,205,48.33,5778
+373,STANNOUS FLUORIDE,Massco Dental A Division of Dunagin Pharmaceuticals,Immunosuppressants,172,224.72,1541
+374,hydrocortisone acetate and pramoxine hydrochloride,"Ferndale Laboratories, Inc.",Statins,209,41.22,8393
+375,levetiracetam,"PD-Rx Pharmaceuticals, Inc.",Immunosuppressants,78,119.9,7850
+376,Oxygen,Home Health Depot,Blood thinners,364,151.4,3994
+377,Lamotrigine,Wockhardt Limited,Bronchodilators,208,37.34,1078
+378,Ammonium Lactate,"Watson Laboratories, Inc.",Vitamins & Supplements,48,235.09,3544
+379,Helium,"Airgas Northern California and Nevada, Inc.",Hormones,74,7.67,2762
+380,Isopropyl Alcohol,Fred's Inc.,Antihistamines,497,16.56,1401
+381,Miconazole nitrate,L Perrigo Company,Antibiotics,284,172.34,4263
+382,ARSENIC TRIIODIDE - EUPATORIUM PERFOLIATUM FLOWERING TOP - GELSEMIUM SEMPERVIRENS ROOT,Washington Homeopathic Products,Antibiotics,73,200.07,4952
+383,LYCOPODIUM CLAVATUM SPORE,Washington Homeopathic Products,Antidepressants,38,159.51,9185
+384,Amoxicillin and Clavulanate Potassium,"Preferred Pharmaceuticals, Inc.",Immunosuppressants,218,69.67,5078
+385,"OYSTER SHELL CALCIUM CARBONATE, CRUDE - IRON - GRAPHITE - POTASSIUM CARBONATE - SODIUM CHLORIDE -","Homeostasis Laboratories, Inc.",Statins,93,14.57,7346
+386,Levetiracetam,Bryant Ranch Prepack,Hormones,67,46.19,7050
+387,Isopropyl Alcohol,Buttner-Frank GmbH Arzt- und Krankenhausbedarf - Krankenpflege und Einmalartikel,nalgesics,387,70.56,1819
+388,Desmopressin acetate,Ferring Pharmaceuticals Inc.,Antivirals,399,87.95,7061
+389,Prednisone,A-S Medication Solutions LLC,Anticonvulsants,225,165.1,2328
+390,INTERLEUKIN-8,Guna spa,Antihistamines,102,84.19,8326
+391,clotrimazole,Chain Drug Marketing Association Inc.,Antacids,445,193.55,7599
+392,Western Water Hemp,"Nelco Laboratories, Inc.",Diuretics,451,86.16,5783
+393,OCTINOXATE,Parfums Christian Dior,Vitamins & Supplements,387,143.47,7431
+394,hydrocortisone acetate pramoxine hcl,Perrigo New York Inc,Corticosteroids,364,229.23,391
+395,"Strychnos nux-vomica seed, Silver nitrate, Datura stramonium, Strychnos ignatii seed, Phosphoric acid, Matricaria recutita, Coffee bean",HomeopathyStore.com,Bronchodilators,56,46.95,3929
+396,Phentermine Hydrochloride,"PD-Rx Pharmaceuticals, Inc.",Antihypertensives,196,80.8,1871
+397,VANCOMYCIN HYDROCHLORIDE,Pfizer Laboratories Div Pfizer Inc,Antidepressants,228,180.42,3732
+398,vorinostat,Merck Sharp & Dohme Corp.,Statins,12,129.03,913
+399,Instant Hand Sanitizer,Filo America,Antihypertensives,99,122.01,875
+400,Carvedilol,State of Florida DOH Central Pharmacy,Antihistamines,372,125.41,6602
+401,TOBACCO LEAF,Natural Health Supply,Immunosuppressants,421,54.06,1176
+402,Nitisinone,SWEDISH ORPHAN BIOVITRUM AB (PUBL),nalgesics,215,126.4,5737
+403,SAW PALMETTO,Natural Health Supply,Diuretics,396,227.72,1385
+404,Oxymorphone Hydrochloride,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,Blood thinners,29,15.98,719
+405,Triclosan,"SJ Creations, Inc.",Antihistamines,149,67.51,1464
+406,Amlodipine besylate and benazepril hydrochloride,"Watson Laboratories, Inc.",Antifungals,224,208.99,5805
+407,Topiramate,"Upsher-Smith Laboratories, Inc.",Anticonvulsants,364,7.75,3616
+408,"Agaricus muscarius, Arnica montana, Hypericum perforatum, phosphorus, Plumbum metallicum, Mercurius solubilis, Allium cepa, Lycopodium clavatum,",Apotheca Company,Antidepressants,302,10.11,4279
+409,fenoprofen calcium,Xspire Pharma,Antidepressants,312,25.01,8979
+410,Triamcinolone Acetonide,"Ascend Laboratories, LLC",Antibiotics,263,103.61,1294
+411,"OCTINOXATE, TITANIUM DIOXIDE",MAKEUP ART COSMETICS,Antibiotics,129,102.1,8877
+412,"Berberis vulgaris, Bryonia alba, Carduus marianus, Chelidonium majus, Cholesterinum, Chichona officinalis, Colocynthis, Dioscorea villosa, Lycopodium clavatum, Natrum sulphuricum","Native Remedies, LLC",Antacids,489,196.55,6200
+413,"BENZALKONIUM CHLORIDE, BENZALKONIUM CHLORIDE, LIDOCAINE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B","Genuine First Aid, LLC",Insulin,388,247.66,7790
+414,"Loratadine, Pseudoephedrine",Publix Super Markets Inc,Anticonvulsants,359,7.97,6620
+415,ZINC OXIDE,Pacifica Inc.,Anticonvulsants,403,42.87,1290
+416,hydromorphone hydrochloride,"Mallinckrodt, Inc.",Proton Pump Inhibitors (PPIs),4,70.36,2867
+417,Sodium fluoride,"Rising Pharmaceuticals, Inc.",Anticonvulsants,451,66.58,8338
+418,Stannous Fluoride,"Dental Technologies, Inc.",Blood thinners,56,102.02,2708
+419,Metaxalone,Aidarex Pharmaceuticals LLC,Immunosuppressants,81,220.05,6191
+420,SODIUM FLUORIDE F-18,University of Texas MD Anderson Cancer Center,Corticosteroids,269,160.38,1601
+421,Treatment Set TS342922,"Antigen Laboratories, Inc.",Statins,22,61.4,7191
+422,"OCTINOXATE, OXYBENZONE",ARUBA ALOE BALM NV,Diuretics,147,176.54,6719
+423,Witch Hazel,"McNEIL-PPC, Inc.",Antidepressants,269,177.36,9943
+424,ALTERNARIA TENUIS,"ALK-Abello, Inc.",Anticonvulsants,305,117.94,2726
+425,Tobramycin,Major Pharmaceuticals,Anticonvulsants,86,19.6,6201
+426,Tree Mix 11,Jubilant HollisterStier LLC,Insulin,481,92.08,8957
+427,Pelargonium sidoides,"Nature's Way Products, Inc.",Antivirals,159,98.02,9499
+428,"Octinoxate, Octisalate, Oxybenzone, Titanium Dioxide","Ningbo Dowland Daily Health Co., Ltd",Statins,276,183.89,693
+429,temazepam,"Preferred Pharmaceuticals, Inc",Blood thinners,409,116.34,9588
+430,"Titanium Dioxide, OCTINOXATE","NATURE REPUBLIC CO., LTD.",Immunosuppressants,476,247.79,1601
+431,amoxicillin and clavulanate potassium,"Preferred Pharmaceuticals, Inc",Antihistamines,232,41.17,9381
+432,Zolmitriptan,"Glenmark Generics Inc.,USA",Anticonvulsants,133,156.27,1657
+433,everolimus,Novartis Pharmaceuticals Corporation,Insulin,443,210.69,9273
+434,Carelessweed,"ALK-Abello, Inc.",Antihistamines,84,150.19,8466
+435,oseltamivir phosphate,"Genentech, Inc.",Antihypertensives,50,234.21,3713
+436,"Angelica Archangelica, Hydrastis Canadensis, Kali Muriaticum, Yucca Filamentosa, Cartilago Suis, Phytolacca Decandra, Rhus Toxicodendron","BioPure Healing Products, LLC",Diuretics,193,87.48,8123
+437,Donepezil Hydrochloride,Sun Pharmaceutical Industries Limited,Antivirals,36,49.0,9605
+438,Goat Epithelia,"Allermed Laboratories, Inc.",Antacids,432,87.02,2536
+439,Ampicillin sodium,"Claris Lifesciences, Inc.",Immunosuppressants,362,135.54,3768
+440,Elm,LUEN FOOK MEDICINE SDN. BHD.,Blood thinners,102,178.96,1433
+441,Simethicone,H E B,Antifungals,166,248.26,830
+442,Lorazepam,McKesson Packaging Services Business Unit of McKesson Corporation,Antivirals,68,112.85,3663
+443,nystatin and triamcinolone acetonide,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,Bronchodilators,144,58.6,5280
+444,"PAEONIA OFFICINALIS, RATANHIA, NITRICUM ACIDUM, SULFUR, PODOPHYLLUM PELTATUM, RUTA GRAVEOLENS, GRAPHITES, APIS MELLIFICA, AESCULUS HIPPOCASTANUM, NUX VOMICA",HOMEOLAB USA INC,Blood thinners,14,175.89,1379
+445,BENZOCAINE,CARDINAL HEALTH,Vitamins & Supplements,81,203.15,9159
+446,Renes Veratrum,Uriel Pharmacy Inc.,Statins,404,200.15,6402
+447,Methylphenidate Hydrochloride,"AvKARE, Inc.",Antipsychotics,136,246.45,5613
+448,"Butalbital, Acetaminophen, and Caffeine","Actavis Pharma, Inc.",Bronchodilators,425,141.7,729
+449,BENZTROPINE MESYLATE,Rising Pharmaceuticals Inc,Antifungals,317,199.5,999
+450,Acetic Acid,"Hospira, Inc.",Antihypertensives,190,249.35,9415
+451,"Norepinephrine, Octopamine, Insulin, Hydrocortisone, Ascorbicum acidum, Glandula suprarenalis suis, Heart (suis)",Deseret Biologicals,Antidepressants,319,184.59,6016
+452,Labetalol Hydrochloride,"IVAX Pharmaceuticals, Inc.",Antihypertensives,18,90.2,1085
+453,somatropin (rDNA origin),"EMD Serono, Inc.",Blood thinners,450,58.93,4015
+454,OCTINOXATE and TITANIUM DIOXIDE,SHISEIDO AMERICA INC.,Antihypertensives,313,48.02,9998
+455,Thuja Occidentalis,"Aidance Skincare & Topical Solutions, LLC",Antivirals,148,109.91,6097
+456,ALCOHOL,"Bath & Body Works, Inc.",Immunosuppressants,283,242.78,2628
+457,Levofloxacin,"Blenheim Pharmacal, Inc.",Antihypertensives,399,107.49,5492
+458,Methotrexate,Pfizer Laboratories Div Pfizer Inc.,Hormones,282,11.76,5967
+459,hydrocortisone acetate and pramoxine hydrochloride,"Ferndale Laboratories, Inc.",Bronchodilators,434,71.47,625
+460,Escitalopram Oxalate,Lake Erie Medical DBA Quality Care Products LLC,Anticonvulsants,43,97.17,7981
+461,Homeopathic Liquid,Energetix Corp,Hormones,267,26.24,9886
+462,ACETAMINOPHEN,HIMPRIT PHARMACHEM PVT LTD,Insulin,272,109.55,5061
+463,Ragweed Short,"ALK-Abello, Inc.",Antihistamines,460,155.22,861
+464,Kalium aceticum comp. 6,Uriel Pharmacy Inc.,Vitamins & Supplements,289,155.52,2358
+465,MIDAZOLAM HYDROCHLORIDE,"APP Pharmaceuticals, LLC",Blood thinners,83,125.61,9571
+466,Ibuprofen,"Melaleuca, Inc",Immunosuppressants,285,22.09,5854
+467,Burr Oak,"Nelco Laboratories, Inc.",Bronchodilators,393,23.02,2876
+468,PROTOCATECHUALDEHYDE,"LG Household and Healthcare, Inc.",Antacids,52,56.16,8041
+469,clonazepam,Aidarex Pharmaceuticals LLC,Antacids,353,176.14,7221
+470,"Calc. fluor., Calc. phos., Calc.sulph., Ferrum phosphoricum, Kali mur., Kali phos., Kali sulph., Mag. phos., Nat. mur., Nat. phos., Nat.sulphuricum, Silicea","Newton Laboratories, Inc.",Antipsychotics,466,39.48,9998
+471,DEXTROMETHORPHAN HYDROBROMIDE,Good Neighbor Pharmacy,Immunosuppressants,147,65.64,2127
+472,Nutmeg,"Nelco Laboratories, Inc.",Antibiotics,372,246.21,9477
+473,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",APOLLO HEALTH AND BEAUTY CARE,Antibiotics,411,95.67,6067
+474,WHITE PETROLEUM,International Wholesale Inc.,Antivirals,158,84.01,6817
+475,CAMPHOR MENTHOL,"DOCTOR HOY'S, LLC",Blood thinners,148,15.93,4622
+476,Metoclopramide,REMEDYREPACK INC.,Statins,355,12.9,2267
+477,Alcohol,INNOVATION SPECIALTIES,Insulin,86,90.25,679
+478,Salicylic Acid,Cosmetic Laboratories of America,Antifungals,209,141.69,2844
+479,Triclosan,China Ningbo Shangge Cosmetic Technology Corp.,Anticonvulsants,457,135.99,1977
+480,Naproxen Sodium,McKesson,Insulin,234,7.11,7287
+481,Levothyroxine Sodium,Bryant Ranch Prepack,Blood thinners,27,126.74,3875
+482,Mirtazapine,Bryant Ranch Prepack,Antibiotics,199,61.59,1285
+483,Metformin Hydrochloride,"AvKARE, Inc.",Corticosteroids,459,76.79,4111
+484,Clotrimazole,Cardinal Health,nalgesics,191,64.49,3163
+485,Isopropyl alcohol,Aaron Industries Inc.,Antibiotics,211,68.64,6121
+486,Venlafaxine hydrochloride,Dr. Reddy's Laboratories Limited,Diuretics,482,21.05,8233
+487,Budesonide,AstraZeneca LP,Antipsychotics,349,7.99,8460
+488,Zoledronic Acid,"Fresenius Kabi USA, LLC",Antidepressants,186,119.13,2925
+489,Curvularia inaequalis,"Nelco Laboratories, Inc.",Anticonvulsants,478,152.78,8874
+490,Hydrocodone Bitartrate and Acetaminophen,Rebel Distributors Corp.,Antacids,182,37.15,6477
+491,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE","Aloe Care International, LLC",Antivirals,424,164.72,2133
+492,CANDIDA PARAPSILOSIS and PENICILLIUM GLABRUM,Syntrion GmbH,Antihypertensives,262,73.73,9563
+493,Glycopyrrolate,West-ward Pharmaceutical Corp,Bronchodilators,304,73.65,812
+494,OXYGEN,Cranston Welding Supply Company,Antacids,28,115.68,8022
+495,Erythromycin Stearate,AbbVie Inc.,Bronchodilators,125,217.45,4585
+496,Petrolatum,"Elizabeth Arden, Inc",Immunosuppressants,390,231.82,9827
+497,ALCOHOL,"Bolero Home Decor, Inc.",nalgesics,23,208.92,8758
+498,epinephrine,Lineage Therapeutics Inc.,Antihistamines,332,77.87,6866
+499,PETROLATUM,"New World Imports, Inc",Proton Pump Inhibitors (PPIs),349,72.57,6773
+500,Fentanyl Citrate,West-ward Pharmaceutical Corp.,Blood thinners,163,191.74,5464

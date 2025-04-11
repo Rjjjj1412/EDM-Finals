@@ -1,0 +1,501 @@
+prescription_id,drug_id,quantity,dosage
+422,216,11,Unilat subq mammect NEC
+268,280,97,Oral cavity ops NEC
+450,52,36,Form cutan ureterostomy
+459,329,73,Insert valve in vas def
+117,286,23,Plastic rep ext ear NEC
+424,379,47,Esophagomyotomy
+101,402,24,Removal of FB NOS
+79,182,76,Arthroplasty carpal w/o
+439,460,95,Open uterine biopsy
+34,57,36,Rad neck dissection NOS
+357,92,1,C & s-lower GI
+158,56,46,Excision of pilonid cyst
+142,466,78,Scan of other sites
+74,477,45,Esophagectomy NOS
+383,73,12,Bact smear-lower GI
+120,65,70,Partial pancreatect NEC
+160,296,34,Parent infus nutrit sub
+368,336,62,Inject ca chemother NEC
+170,86,56,Closed fx reduction NEC
+181,263,51,Cl reduc disloc-elbow
+13,136,48,Lysis of hand adhesions
+366,81,63,Cautery to stop epistax
+207,394,3,Percutaneous cystostomy
+298,70,76,Lower GI series
+437,313,82,Clo endosc bx bile duct
+17,459,95,Tot cor transpos grt ves
+272,451,36,Knee arthroscopy
+195,489,90,SuperSat O2 therapy
+436,390,44,Other myectomy
+157,301,98,Amputation thru forearm
+251,395,29,Interview & evaluat NEC
+473,341,67,Tot nasal reconstruction
+100,250,24,Removal FB spinal canal
+105,434,11,Parasitol-spleen/marrow
+217,480,78,Insert bone stim-patella
+431,239,68,Other repair of joint
+432,377,49,Impl fallop tube prosth
+131,408,96,Removal superfic FB eye
+426,438,13,"Endo emb hd/nk,bare coil"
+312,443,1,Remove bladder stimulat
+198,372,52,Temporary ileostomy
+295,351,85,Osteoclasis-radius/ulna
+485,142,96,Intranas les destruction
+78,64,1,Removal FB from arm
+151,306,17,Diathermy
+413,423,82,Forequarter amputation
+355,450,19,Oth dx proc-metacar/car
+278,153,24,Cl reduct malar/zygo fx
+443,419,28,Procedure-one vessel
+246,340,37,D & C post delivery
+498,305,75,Magnetic res image unsp
+327,352,27,Conjun cul-de-sac rx NEC
+97,171,98,Mandibular reconst NEC
+469,294,48,Cervical les cauterizat
+432,217,35,Ureteral meatus dilation
+222,413,4,Pteryg exc w cornea grft
+84,402,59,Ligation of vas deferens
+202,38,31,Vessel resect/replac NOS
+152,80,47,Irrigation of nasal pass
+227,90,17,Symbleph rep w free grft
+58,491,70,Excision hand muscle les
+293,361,51,Suture scleral lacer
+6,86,69,Blepharorrhaphy severing
+500,392,48,Arterial bld gas measure
+205,68,40,Excis radius/ulna-graft
+430,273,79,Yellow fever vaccination
+37,42,1,Iridoplasty NEC
+372,394,89,"Ins/rep 1 pul gen,rechrg"
+302,393,61,Parasitology-integument
+312,42,13,Bil ing hrn rep-grft NOS
+337,481,39,Percu abdominal drainage
+372,389,55,Ins/repl single pul gen
+351,308,30,Intravas img cor ves OCT
+159,420,7,Other joint mobilization
+338,121,78,Excis knee semilun cartl
+97,262,26,Narcoanalysis
+142,416,38,Arterial bld gas measure
+378,208,72,Endovas repl pulm valve
+422,326,47,Excis knee semilun cartl
+58,433,53,Partial salpingectom NEC
+143,386,67,Lap remove both ovaries
+29,289,61,Endosc destruc bronc les
+195,8,50,Insert synth graft/prost
+222,302,20,Blood vessel biopsy
+115,480,39,Pharyngotomy
+291,248,41,Abdominal wall biopsy
+229,484,98,Keratoprosthesis
+87,335,15,Revise knee replace NOS
+25,338,21,Replace indwelling cath
+48,499,53,Audiometry
+345,179,49,Oth endo proc oth vessel
+204,113,60,Facial rhytidectomy
+321,198,6,Plast op hand w grft NEC
+208,381,99,Eyelid epilation NEC
+209,3,93,Suture of palate lacerat
+327,120,71,Cell blk/pap-integument
+237,392,78,Corneal dx proc NEC
+238,495,7,Soft tissue dx proc NEC
+9,192,13,Nebulizer therapy
+96,88,61,Thoracentesis
+65,322,94,Ankle joint biopsy
+222,458,27,Excise epididymis cyst
+245,171,69,Liver repair NEC
+494,4,34,Replace gastrostomy tube
+195,166,72,Psychia interv/eval NEC
+221,464,42,Tibia/fibul wedg osteot
+26,443,72,Lacrimal gland incision
+452,429,52,Perc mtrl vlv repr w imp
+186,12,44,Clos mediastinal biopsy
+80,64,59,Thoracic duct op NEC
+170,202,25,Extracorp immunoabsorpt
+43,317,14,Suture vulvar laceration
+274,10,52,Ant nasal pack for epist
+452,150,58,Tonsillectomy
+313,227,37,Incis thyroid field NEC
+83,307,5,Opn mul seg lg intes NEC
+272,486,58,Other ext ear operations
+316,492,11,Cricopharyngeal myotomy
+152,411,60,Intest stoma closure NOS
+226,129,39,Blepharoptos repair NEC
+404,456,11,Exc of accessory spleen
+31,484,18,Revis bile tract anastom
+227,75,99,Toxicology NOS
+423,269,47,Tot ostect-radius/ulna
+68,332,12,Head/neck vessel excis
+91,214,31,Implant chemothera agent
+392,309,92,Toxicology-spleen/marrow
+295,294,85,Pericolost hernia repair
+96,462,5,Larygnoscopy/tracheoscop
+88,391,94,Thoracoplasty
+302,209,36,Bone graft to chest cage
+248,304,75,Bone graft NOS
+65,261,26,Close renal fistula NEC
+441,51,38,Skin graft to mouth NEC
+49,98,30,Rem of cor art obstr NEC
+131,385,78,Periop aut trans hol bld
+362,313,76,Linear rep lid lacer
+335,439,69,Cl fx reduc-tibia/fibula
+382,318,90,Total abd hyst NEC/NOS
+68,200,51,Culture-endocrine
+28,227,27,Arterial catheterization
+32,197,100,Large bowel incision
+188,500,54,Lac canaliculi probe
+391,416,46,Gastrostomy closure
+200,173,70,Ins left atr append dev
+144,454,14,Remov intralum trach FB
+215,97,33,Bone graft to humerus
+178,89,42,Type 4 tympanoplasty
+234,249,79,Bone division NEC
+50,483,77,Other perfusion
+269,108,72,Cell blk/pap-spleen/marr
+172,373,36,Ovarian cyst marsupializ
+438,308,68,Urinary manometry
+57,350,91,"Repl pacem w 1-cham, non"
+397,419,57,Dental wiring
+430,25,24,Dental wiring
+375,258,24,Sympath nrv dx proc NEC
+4,334,13,Pancreatic dx proc NEC
+407,371,1,Metacar/car division NEC
+277,97,27,Insert tissue expander
+319,498,2,Aspir soft tiss hand NEC
+374,430,38,Small bowel incision NEC
+327,195,94,Breast pedicle graft
+472,291,84,Allo hem stem ct w/o pur
+468,28,82,Wound irrigation NEC
+144,281,75,Plaster jacket applicat
+212,358,95,Inject anti-infect NEC
+268,295,95,"Imp crtd sinus stm,totl"
+346,244,97,Limited interview/evalua
+419,361,38,Lg bowel exteriorization
+323,112,10,Pharyngeal biopsy
+336,177,90,Opn dir ing hern-gft NEC
+414,233,85,Contr cerebr arteriogram
+228,324,66,Oth excise duodenum les
+311,340,30,Cil body diminution NOS
+379,145,51,Full-thick grft to mouth
+269,68,37,Cervical fistula repair
+56,407,60,Ant segment dx proc NEC
+77,34,21,Proximal gastrectomy
+475,79,77,Remove solitary fal tube
+303,176,32,Toe reattachment
+190,413,45,Limb skin traction NEC
+237,51,70,Incision of penis
+384,293,100,Other isotope function
+485,255,47,Head/neck var v lig-str
+36,70,17,Bone graft-radius/ulna
+281,418,69,Transplant of intestine
+428,212,31,Prolapsed iris excision
+453,298,86,Suture testicular lacer
+331,437,28,Ventricl shunt-abdomen
+44,348,31,Int insert dual-cham dev
+169,382,75,Implt/repl carddefib tot
+273,310,19,Grp therap psychsex dysf
+10,169,33,Rep anulus fibrosus-grft
+274,402,35,Open biliary tract bx
+430,70,84,Ext audit canal reconstr
+361,2,74,Bladder anastomosis NEC
+293,84,62,Remove penetrat cerv FB
+12,243,71,Open reduc-elbow disloc
+379,290,49,Iridotomy w transfixion
+108,33,30,Retinal tear xenon coag
+305,184,34,Intracran pressure montr
+365,367,92,Cystoscopy NEC
+405,81,54,Destruct duoden les NEC
+146,116,35,Liver scan/isotope funct
+280,305,78,Total ankle replacement
+9,26,20,Limb short proc-femur
+309,36,54,Repair of pleura
+186,104,60,Inject steroid
+111,18,61,Pull-thru res rectum NOS
+139,114,30,Lac punctum obliteration
+182,359,32,C-luc exc max sinus les
+226,314,54,Ins noninfl penis prosth
+103,496,49,Percu endosc jejunostomy
+398,402,44,Bilat tubal division NEC
+483,327,22,Hymenorrhaphy
+384,467,90,Lap gastroenterostomy
+440,129,47,Stern esophagoenter NEC
+193,16,80,Tracheal injection
+298,16,56,Trnsapcl rep aortc valve
+463,469,21,Injec air-periton cavity
+211,201,100,Tympanostomy tube remove
+105,389,11,Hrt/pericar dx proc NEC
+406,245,73,Lysis cortical adhesion
+485,251,65,Bilat simple mastectomy
+234,471,8,Otoscopy
+479,437,63,Late repair per nerv inj
+5,469,62,Hand plastic op NEC
+472,357,70,Detach retina-cryotherap
+306,84,45,Rem crtd sinus stm lead
+294,224,47,Ileostomy NOS
+43,248,66,Incision of lung
+209,318,65,Male genital x-ray NEC
+361,313,8,C.A.T. scan of head
+454,412,2,Urethral sphincter emg
+110,363,73,Remove ventricle shunt
+335,279,74,Contrast phlebogram NEC
+198,229,95,Relaxation of scar
+21,327,15,Other laryngeal repair
+339,103,23,Angiocardiography NOS
+462,170,6,Nonmagnet remove FB lens
+321,478,65,Punctum repair NEC
+364,11,98,Remov ext immobilization
+245,324,41,Abdominal lymphangiogram
+223,293,94,Fit ext penile prosthes
+222,327,84,Solitary kidney nephrect
+150,489,18,Scler fistulizing op NEC
+245,190,56,Orthodon applianc applic
+449,343,56,Toxicology-endocrine
+27,419,16,Cranial puncture NEC
+149,333,59,Endosc destru duoden les
+474,462,25,Dilat frontonasal duct
+88,251,22,Rep cornea postop dehisc
+341,255,18,Revise knee replace NOS
+15,340,83,Imp/repl brain pulse gen
+370,401,40,Conjunc free graft NEC
+299,454,98,Coronar arteriogr-1 cath
+306,90,83,Other laryngeal repair
+161,369,23,Close red-humerus epiphy
+356,337,42,Radioisot teleradiother
+30,321,13,Lap abltn liver les/tiss
+485,377,62,Injection into joint
+4,286,67,Destruct peritoneal tiss
+175,152,30,Comb alcohol/drug rehab
+290,485,52,Vessel resect/anast NOS
+123,231,20,Vent shunt extracran NEC
+95,243,91,Treadmill stress test
+415,131,50,Mmr administration
+227,92,71,Reduction torsion testes
+126,46,15,Closed spleen biopsy
+175,188,52,Rubella vaccination
+392,44,24,Radical maxillary antrot
+482,45,41,Radiotherapeut proc NEC
+157,321,94,Blood vessel dx proc NEC
+74,304,45,Revision gastric anastom
+358,85,2,Ext version-assist deliv
+228,238,10,Abdominal vein excision
+421,327,98,Fundus photography
+199,472,29,Anal anastomosis
+444,476,89,Suture cervical lacerat
+430,470,92,Intra-abd lg bowel manip
+178,266,80,Bile duct incision NEC
+356,407,49,Thumb reconstruction NEC
+336,92,49,Removal iud
+358,129,3,Stern esophagogastrostom
+76,53,29,Cervical biopsy NEC
+2,453,1,Lap marsup ovarian cyst
+247,395,14,Fallopian tube op NEC
+136,146,1,Psychiat mental determin
+497,288,1,Cord bld stem cell trans
+84,454,28,Closed breast biopsy
+189,68,18,Frontal sinusectomy
+189,312,24,Eye/orbit inj repair NEC
+232,203,71,Bronchial operation NEC
+88,7,60,Nephrocystanastomosi NOS
+115,23,30,Prod subq tunnel no anas
+243,230,98,"GAP flap, free"
+256,317,15,Coronary arteriogram NEC
+340,468,33,Implant CCM pulse genrtr
+207,186,42,Impl fallop tube prosth
+347,368,74,Suprapubic sling op
+343,145,19,Total repair of tapvc
+111,220,43,Chorioret les p/coag NOS
+176,498,62,Manual rupt ovarian cyst
+330,291,10,Braille or moon training
+391,112,40,Aortocoronary bypass NOS
+284,138,30,Breast thermography
+281,33,80,Up limb sft tis xray NEC
+113,311,60,Other myectomy of hand
+181,472,37,Suture scrotal lacerat
+233,494,92,Sex transformat op NEC
+174,387,94,Culture-nervous syst
+454,122,5,High forceps w episiot
+3,29,33,Other excision of lung
+475,88,48,Oth conjunc destruc proc
+287,239,13,Lap remove both ovaries
+397,300,52,Cran nerv root decom NEC
+69,175,21,Salivary repair NEC
+249,394,69,Close thoracic duct fist
+185,334,60,Limited rhinoplasty
+85,328,12,Other resp procedures
+279,109,24,Closed nasal sinus bx
+104,133,24,Mesenteric repair NEC
+395,275,76,Transfusion NEC
+83,302,68,Suture of vessel NOS
+39,51,53,Brain meninge repair NEC
+331,496,39,Remov thoracotomy tube
+434,113,82,Other control gast hem
+254,46,57,Opn rep umb hrn-grft NEC
+71,461,28,Endarterectomy NOS
+260,257,82,Bilat subq mammectom NEC
+355,220,34,Rep rectocele w grf/pros
+166,5,83,Lower limb vein incision
+419,195,71,Patellar wedge osteotomy
+372,126,20,Wide exc bony palate les
+74,284,75,Psychodrama
+38,183,37,Wide exc bony palate les
+79,76,45,Lower limb artery incis
+452,404,10,Goniotomy w goniopunctur
+30,90,40,Opn/oth rep mtrl vlv-tis
+259,412,80,Insert gastric bubble
+485,243,38,Other tenonectomy
+376,71,52,Alveolus biopsy
+404,18,51,Insert 3 vascular stents
+28,207,80,Soft tissue division NEC
+267,256,59,Clos uterine ligament bx
+203,24,26,Thorac var v lig-strip
+263,184,6,Arthroscopy NEC
+447,13,32,Inject anti-infect NEC
+53,424,52,Sut gastric ulcer site
+244,374,68,Percu endosc gastrostomy
+312,230,9,Oth rad/uln repair/plast
+98,83,42,Rehabilitation NEC
+471,415,44,Hysterotomy
+399,381,70,Bilat endosc crush tube
+82,12,64,Dx aspirat-ant chamber
+274,460,32,Culture-lower resp
+319,482,77,Culture-eye
+18,476,1,Lg bowel segment isolat
+68,256,11,Venous cath NEC
+69,398,40,Open reduct mandible fx
+318,131,55,Tot substern thyroidect
+150,26,89,Cervical canal dilation
+151,183,54,Opn thorc diaph hern NEC
+71,269,49,Occlude leg vein NEC
+482,264,64,Periren/ureter incis NEC
+201,2,64,Forced limb extension
+5,496,38,Bone graft to face bone
+307,83,40,Tendon graft
+333,459,95,Insert gastric tube NEC
+453,409,30,Auto hem stem ct w/o pur
+25,114,85,Esophageal manometry
+356,12,66,Pelvic gas contrast xray
+169,377,90,Excise int mammary node
+56,473,54,Remov large bowel tube
+406,145,33,Osteoclasis-chest cage
+493,129,24,Insert bone stimul-chest
+483,418,14,Remov vas deferens valve
+149,376,7,Destruct peritoneal tiss
+135,65,24,Imp/rep CRT pacemakr gen
+482,244,71,Perirectal incision
+113,394,61,Contrast arthrogram
+308,466,78,Achillotenotomy
+12,39,95,Tibia/fibula sequestrec
+219,311,90,Facial bone repair NEC
+339,439,97,Oxygen enrichment NEC
+402,219,4,Remove ocular implant
+481,297,10,Creat esophagastr sphinc
+246,59,15,Remove solitary testis
+217,267,56,Reimplan aberr renal ves
+236,288,39,Replace ventricle shunt
+41,221,65,Endovas repl uns hrt vlv
+226,17,50,Close red-humerus epiphy
+183,299,95,Pacemaker impedance chck
+398,277,43,Thumb reconstruction NEC
+114,44,92,Thumb amputation
+176,385,42,Ind therap psychsex dysf
+231,450,86,Oth arthrotomy-hand/fngr
+305,209,76,Glaucoma testing
+154,238,73,Cut & prep pedicle graft
+93,90,40,Scler fistulizing op NEC
+366,248,21,Head/neck var v lig-str
+81,293,69,Relaxation of scar
+482,64,95,Ventr septa def rep NEC
+296,319,12,Vectorcardiogram
+89,70,98,Alcohol detoxification
+333,142,17,Stereo radiosurgery NEC
+252,15,72,Remove bladder stimulat
+63,288,58,Endosc destr pancrea les
+146,255,83,Excision vaginal lesion
+115,329,16,Aspiration of ovary
+72,181,23,Presacral sympathectomy
+34,109,22,Micro exam NEC
+133,62,79,Drsl/drslumb fus ant/ant
+468,385,38,Trnsplnt islets lang NOS
+399,12,69,Rep scler staphyloma NEC
+227,255,99,Hand tendon reattachment
+387,239,33,Tot exc pituit-transfron
+218,428,35,Facilit intraoc circ NEC
+92,485,90,Refus lmb/lmbsac pst/pst
+321,232,44,Replace gast/esoph tube
+476,181,62,Oth perc proc bil trct
+489,263,37,Anal sphincterotomy NEC
+418,20,24,Close thoracic duct fist
+317,423,60,Parasitlolgy-lower urin
+109,68,68,Arterial catheterization
+173,385,93,Goniopuncture
+314,267,99,Lysis of hand adhesions
+348,450,8,Intrcran vent shunt/anas
+410,279,57,Suture scrotal lacerat
+429,80,70,Reduction torsion testes
+441,338,65,Remove ocular implant
+274,106,42,Open uterine ligament bx
+45,499,100,Facial bone incision NEC
+302,21,78,Trnsplnt live rel donor
+277,479,57,Part ostectomy-femur
+288,165,36,Skel xray-wrist & hand
+41,445,42,Contr mammary ductogram
+175,117,70,Repair of macrodactyly
+327,107,37,"Ins/rep mul pul gn,rechg"
+12,28,82,Endotracheal bronchogram
+433,201,74,Wide exc bony palate les
+18,312,54,Pancreat sphincterotom
+487,196,97,Periprostatic incision
+425,442,89,Unilat lung transplant
+175,404,57,Barium swallow
+290,437,45,Tracheostomy toilette
+38,343,94,Upper limb amputat NOS
+491,418,21,Skull plate removal
+429,34,26,Brain lobectomy
+212,203,98,Eyelid biopsy
+88,347,86,Bone graft to chest cage
+286,44,89,Part gast w jej transpos
+259,499,88,Inject anti-infect NEC
+212,305,20,"Repl pacem w 1-cham, non"
+203,457,87,Excision tunica les NEC
+266,350,74,Close ureth fistula NEC
+122,185,94,Gastric gavage
+196,451,7,Audiological evaluation
+246,315,71,Muscle or fascia graft
+166,165,27,Duodenal fistula closure
+229,472,80,Sympathetic nerve repair
+79,185,73,Manual & mechan traction
+141,288,42,"Omt with hi-vel,lo-ampli"
+247,307,8,Rev knee repl-tibia comp
+196,232,24,Cl reduct malar/zygo fx
+275,228,27,Dialysis arteriovenostom
+210,327,32,Reimplant pancreatic tis
+473,35,95,Fit above knee prosthes
+456,494,24,Excise minor les lid NEC
+406,11,75,Lid reconst-ful thic NEC
+253,477,44,Gastric cooling
+453,133,12,Access-hypogloss anastom
+296,174,38,Patellar wedge osteotomy
+93,390,74,Unil femor hrn rep-grft
+208,12,62,Toe amputation
+471,453,8,Oth tib/fib repair/plast
+124,258,85,Remov mediastinal drain
+148,377,34,Opn bi dr/in ing hrn NEC
+266,91,63,Trnsplnt live nonrel don
+333,327,13,Closed breast biopsy
+208,180,58,Thoracoscopic pleural bx
+381,466,17,Bilat part salpingec NOS
+279,222,6,CAS w CT/CTA
+494,395,93,Otoscopy
+103,498,3,Spinal cord adhesiolysis
+362,71,43,Thoracoplasty
+397,493,35,Renal operation NEC
+251,79,35,Electrocochleography
+124,94,93,Ethmoidotomy
+123,356,44,Insert skel musc stimula
+339,190,80,Scrotal fistula repair
+69,89,13,Audiometry
+309,190,17,Hemorrhoid ligation
+447,367,56,Total repair of tapvc
+104,398,53,Lap scervic hysterectomy
+136,440,15,Dermal regener graft
+401,442,83,Abd wall suture NEC
+124,375,52,Dental examination
+270,169,63,Partial ureterectomy

@@ -1,0 +1,93 @@
+CREATE TABLE Suppliers (
+    supplier_id INT PRIMARY KEY AUTO_INCREMENT,
+    supplier_name VARCHAR(255) NOT NULL,
+    contact_person VARCHAR(255),
+    contact_number VARCHAR(15),
+    email VARCHAR(255)
+);
+
+CREATE TABLE Drugs (
+    drug_id INT PRIMARY KEY AUTO_INCREMENT,
+    drug_name VARCHAR(500) NOT NULL,
+    brand_name VARCHAR(500),
+    category VARCHAR(500),
+    supplier_id INT,
+    unit_price DECIMAL(10,2),
+    stock_quantity INT,
+    FOREIGN KEY (supplier_id) REFERENCES Suppliers(supplier_id)
+);
+
+CREATE TABLE Patients (
+    patient_id INT PRIMARY KEY AUTO_INCREMENT,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
+    dob DATE,
+    gender VARCHAR(500),
+    phone_number VARCHAR(500),
+    email VARCHAR(50),
+    address VARCHAR(500),
+    city VARCHAR(50),
+    state VARCHAR(500),
+    postal_code VARCHAR(500)
+);
+
+CREATE TABLE Doctors (
+    doctor_id INT PRIMARY KEY AUTO_INCREMENT,
+    first_name VARCHAR(500) NOT NULL,
+    last_name VARCHAR(500) NOT NULL,
+    specialization VARCHAR(500),
+    phone_number VARCHAR(500),
+    email VARCHAR(500)
+);
+
+CREATE TABLE Prescriptions (
+    prescription_id INT PRIMARY KEY AUTO_INCREMENT,
+    patient_id INT,
+    doctor_id INT,
+    prescription_date DATE,
+    notes VARCHAR(500),
+    FOREIGN KEY (patient_id) REFERENCES Patients(patient_id),
+    FOREIGN KEY (doctor_id) REFERENCES Doctors(doctor_id)
+);
+
+CREATE TABLE PrescriptionDetails (
+    prescription_id INT,
+    drug_id INT,
+    quantity INT,
+    dosage VARCHAR(500),
+    PRIMARY KEY (prescription_id, drug_id),
+    FOREIGN KEY (prescription_id) REFERENCES Prescriptions(prescription_id),
+    FOREIGN KEY (drug_id) REFERENCES Drugs(drug_id)
+);
+
+CREATE TABLE Orders (
+    order_id INT PRIMARY KEY AUTO_INCREMENT,
+    supplier_id INT,
+    order_date DATE,
+    status VARCHAR(500),
+    total_amount DECIMAL(10,2),
+    FOREIGN KEY (supplier_id) REFERENCES Suppliers(supplier_id)
+);
+
+CREATE TABLE OrderDetails (
+    orderdetail_id INT AUTO_INCREMENT PRIMARY KEY,
+    order_id INT,
+    drug_id INT,
+    quantity_ordered INT,
+    unit_price DECIMAL(10, 2),
+    FOREIGN KEY (order_id) REFERENCES Orders(order_id),
+    FOREIGN KEY (drug_id) REFERENCES Drugs(drug_id)
+);
+
+CREATE TABLE Sales (
+    sale_id INT AUTO_INCREMENT PRIMARY KEY,
+    patient_id INT,
+    drug_id INT,
+    sale_date DATE,
+    quantity_sold INT,
+    sale_type ENUM('Cash', 'Credit', 'Insurance', 'Other'),
+    FOREIGN KEY (patient_id) REFERENCES Patients(patient_id),
+    FOREIGN KEY (drug_id) REFERENCES Drugs(drug_id)
+);
+
+

@@ -1,0 +1,501 @@
+prescription_id,patient_id,doctor_id,prescription_date,notes
+1,77,143,2023-10-26,"Expsr to oth furniture fire due to burn cigarette, sequela"
+2,197,195,2025-03-21,"Open bite of unspecified breast, subsequent encounter"
+3,10,177,2024-08-19,"Flail joint, unspecified ankle and foot"
+4,334,61,2024-08-11,"Galeazzi's fracture of left radius, sequela"
+5,206,8,2023-12-28,"Disp fx of 2nd metatarsal bone, r ft, 7thD"
+6,446,12,2024-07-19,"Nondisp fx of shaft of 4th MC bone, l hand, 7thK"
+7,397,181,2023-07-18,"Prsnl hx of malig neoplm of rectum, rectosig junct, and anus"
+8,462,40,2024-04-09,"Sltr-haris Type IV physeal fx upper end of right tibia, init"
+9,361,43,2023-07-24,Prsn brd/alit pedl cyc injured in collision w statnry object
+10,379,53,2025-03-17,"Nondisp fx of med condyle of l tibia, 7thG"
+11,487,88,2025-03-21,Insulin and oral hypoglycemic drugs
+12,380,102,2024-12-12,"Toxic effect of lead and its compounds, self-harm"
+13,178,95,2023-06-14,"Struck by macaw, initial encounter"
+14,18,93,2023-12-11,"Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thG"
+15,84,155,2024-04-19,"Fall into oth water striking wall causing drown, sequela"
+16,238,151,2024-09-20,Unsp pedal cyclist injured in collision w ped/anml in traf
+17,377,143,2023-06-15,"Breakdown (mechanical) of bile duct prosthesis, init encntr"
+18,455,188,2023-07-28,"Occup of bus injured in nonclsn trnsp acc nontraf, sequela"
+19,323,38,2023-10-09,"Nondisplaced bicondylar fracture of unsp tibia, sequela"
+20,297,138,2023-05-05,"Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,init"
+21,78,38,2024-10-23,Abnormal results of kidney function studies
+22,293,31,2024-11-27,"Unsp injury of blood vessels at lower leg level, unsp leg"
+23,126,60,2023-06-11,"Laceration of fallopian tube, unspecified, subs encntr"
+24,156,146,2023-06-19,"Injury of other cranial nerves, unspecified side"
+25,344,79,2023-10-14,"Ped w convey inj in clsn w nonmtr vehicle in traf, sequela"
+26,230,31,2025-04-03,Insect bite (nonvenomous) of unspecified ear
+27,15,73,2024-07-14,"Jump/div into swim pool strk wall causing oth injury, subs"
+28,409,58,2024-06-28,"Nondisp spiral fx shaft of radius, unsp arm, sequela"
+29,124,108,2024-06-23,"Sltr-haris Type IV physeal fx unspecified calcaneus, sequela"
+30,149,12,2023-11-22,"Toxic effect of noxious substnc eaten as food, undet, init"
+31,365,58,2024-04-18,Endometriosis of uterus
+32,98,87,2024-11-05,"Intermittent hydrarthrosis, shoulder"
+33,63,41,2023-05-13,"Poisoning by intravenous anesthetics, self-harm, init"
+34,56,41,2024-12-18,Other subluxation of unspecified knee
+35,229,101,2024-09-15,Pedal cycle rider injured in collision w nonmtr vehicle
+36,364,52,2024-03-09,"Lacerat flexor musc/fasc/tend unsp finger at forarm lv, init"
+37,188,186,2025-02-19,Foreign body in mouth
+38,14,13,2024-06-22,"Corrosion of third degree of unsp hand, unsp site, init"
+39,307,131,2024-11-09,"Burn of unsp degree of male genital region, subs encntr"
+40,426,106,2025-02-01,Burns of other specified parts of unspecified eye and adnexa
+41,234,114,2024-01-30,"Oth injury of unspecified Achilles tendon, init encntr"
+42,459,94,2025-01-09,"Puncture wound with foreign body, left hip, sequela"
+43,303,23,2024-05-14,STEMI involving left anterior descending coronary artery
+44,329,77,2023-05-29,"External constriction, left lower leg, sequela"
+45,37,180,2023-09-23,"Burn of first degree of unspecified hand, unspecified site"
+46,434,131,2024-06-22,Expsr to high and low air pressr and changes in air pressure
+47,278,131,2023-09-11,"Complete traumatic trnsphal amputation of l idx fngr, init"
+48,98,98,2024-04-28,Filtering (vitreous) bleb after glaucoma surgery status
+49,370,10,2024-08-16,"Other superficial bite of left little finger, init encntr"
+50,316,30,2023-10-17,"Displ artic fx head of l femur, subs for clos fx w nonunion"
+51,110,135,2024-12-31,"Major laceration of left innominate or subclav art, init"
+52,318,158,2024-02-20,"Unsp mtrcy rider injured in clsn w pedl cyc in traf, sequela"
+53,410,118,2024-05-19,"Cont preg aft elctv fetl rdct of one fetus or more, unsp tri"
+54,326,85,2024-07-02,"Sprain of unsp part of left wrist and hand, subs encntr"
+55,202,162,2025-03-16,"Displ suprcndl fx w/o intrcndl extn low end unsp femr, 7thP"
+56,385,94,2024-03-24,"Dependence on enabling machines and devices, NEC"
+57,150,28,2024-07-18,"Progressive external ophthalmoplegia, bilateral"
+58,463,21,2024-10-01,"Pathological dislocation of elbow, not elsewhere classified"
+59,276,119,2024-05-08,Primary blast injury of other part of small intestine
+60,33,153,2023-08-22,"Encounter for fit/adjst of partial artificial leg, unsp leg"
+61,69,57,2023-09-29,"Fall from or off toilet w strike against object, sequela"
+62,276,198,2024-04-21,Unsp soft tissue disorder related to use/pressure of ank/ft
+63,319,95,2023-11-03,"Lacerat unsp blood vess at abd, low back and pelvis level"
+64,157,51,2024-07-06,"Nondisp spiral fx shaft of unsp femr, 7thF"
+65,3,4,2024-09-28,"Maternal care for prolapse of gravid uterus, third trimester"
+66,262,149,2024-05-21,"Displ subtrochnt fx unsp femr, subs for clos fx w routn heal"
+67,25,162,2023-12-12,Corrosion of second degree of right shoulder
+68,150,62,2023-07-30,"Mech compl of internal fixation device of left femur, subs"
+69,305,180,2025-02-26,Other fracture of unspecified lower leg
+70,220,156,2025-02-28,Exposure to sofa fire
+71,458,51,2023-05-30,"Person outside bus injured in clsn w pedl cyc nontraf, subs"
+72,6,132,2023-06-02,Traumatic rupture of cervical intervertebral disc
+73,274,67,2024-06-17,"Fall (on)(from) incline, initial encounter"
+74,395,133,2023-09-15,"Spondyls w/o myelopathy or radiculopathy, cervicothor region"
+75,363,190,2023-06-18,"Legal intervention involving bayonet, bystander injured"
+76,225,40,2024-08-16,Animl-ridr or occ of anml-drn veh inj in clsn w nonmtr veh
+77,22,200,2023-04-21,Drug/chem diabetes mellitus w diabetic cataract
+78,318,49,2024-07-21,"Oth fx shaft of unsp tibia, subs for clos fx w routn heal"
+79,371,154,2024-03-11,Other superficial injuries of wrist
+80,101,71,2023-05-23,"Poisoning by benzodiazepines, undetermined, init encntr"
+81,285,179,2024-01-15,Late congenital cardiovascular syphilis
+82,473,186,2023-10-25,"Kidney dialysis cause abn react/compl, w/o misadvnt"
+83,374,84,2023-11-04,"Contusion of unsp index finger with damage to nail, sequela"
+84,415,44,2023-12-07,"Hemorrhage due to genitourinary prosth dev/grft, sequela"
+85,36,156,2024-08-18,"Assault by unspecified larger firearm discharge, init encntr"
+86,190,42,2024-05-31,Articular disc disorder of left temporomandibular joint
+87,441,166,2024-04-16,"Injury of trochlear nerve, unspecified side, subs encntr"
+88,273,40,2024-11-09,"Mech compl of prosthetic orbit of right eye, subs encntr"
+89,235,89,2024-08-22,Displaced intertrochanteric fracture of left femur
+90,396,144,2023-05-24,Idiopathic acute pancreatitis with infected necrosis
+91,34,178,2024-01-14,"Terorsm w oth explosn and fragmt, publ sfty offcl inj, subs"
+92,312,176,2024-02-20,Contusion of little finger without damage to nail
+93,70,143,2023-10-23,"Nondisp fx of unsp tibial tuberosity, 7thK"
+94,169,85,2023-12-31,"Candidiasis, unspecified"
+95,262,10,2025-01-29,Corrosion of third degree of right ear
+96,441,194,2024-01-07,"Other subluxation of left foot, subsequent encounter"
+97,421,45,2023-12-04,"Nondisp Maisonneuve's fx unsp leg, 7thQ"
+98,309,112,2023-09-03,Nondisp fx of lateral condyle of unspecified femur
+99,337,43,2023-10-10,"Unsp bus occupant injured in clsn w oth mv nontraf, init"
+100,7,119,2023-09-18,"Accidental twist by another person, sequela"
+101,182,136,2024-05-13,"Nondisp fx of nk of unsp rad, 7thN"
+102,261,87,2023-09-06,"Oth athscl unsp type bypass of the extrm, oth extremity"
+103,63,51,2024-02-08,"Displaced transverse fracture of shaft of humerus, left arm"
+104,409,30,2024-12-14,"Enteropathic arthropathies, right hand"
+105,497,165,2024-12-21,"Anterior dislocation of left sternoclavicular joint, subs"
+106,215,33,2023-09-08,Hydantoin derivatives
+107,361,73,2023-10-31,Dacryoadenitis
+108,408,12,2023-10-19,"Injury of trochlear nerve, left side"
+109,425,182,2024-10-01,"Displ seg fx shaft of unsp tibia, 7thE"
+110,453,19,2025-03-16,"Unspecified open wound of left upper arm, subs encntr"
+111,452,82,2025-04-05,Pneumonia due to staphylococcus
+112,480,41,2024-06-12,Struck by field hockey stick
+113,376,67,2023-10-29,"Dislocation of distal end of unspecified ulna, init encntr"
+114,78,41,2024-03-09,"Nondisp spiral fx shaft of humerus, unsp arm, sequela"
+115,230,194,2023-09-27,"Sltr-haris Type IV physl fx low end unsp tibia, 7thK"
+116,273,105,2024-03-11,"Disp fx of acromial pro, unsp shldr, 7thD"
+117,406,36,2024-04-28,"Struck by falling object on unsp watercraft, init encntr"
+118,314,135,2025-01-24,Complete traumatic amputation of unspecified great toe
+119,465,48,2024-07-18,"Sltr-haris Type I physeal fx lower end of ulna, right arm"
+120,422,104,2023-06-25,"Osteonecrosis due to previous trauma, tibia and fibula"
+121,142,3,2025-03-20,Cannabis abuse with other cannabis-induced disorder
+122,102,68,2025-03-12,Subacute and chronic vulvitis
+123,20,111,2024-02-14,"Retained (old) fb in iris or ciliary body, bilateral"
+124,364,158,2023-10-28,"Injury of r int carotid, intcr w/o loss of consciousness"
+125,400,3,2024-12-24,"Intraventricular hemorrhage, grade 1, of newborn"
+126,114,125,2023-10-24,"Oth extrartic fx low end l rad, subs for clos fx w malunion"
+127,135,113,2025-02-10,"Cholera due to Vibrio cholerae 01, biovar eltor"
+128,144,132,2024-02-15,Laceration of flexor musc/fasc/tend thmb at forearm level
+129,133,51,2023-08-15,"Contusion of eyeball and orbital tissues, right eye"
+130,479,125,2023-08-02,Family history of malignant neoplasm of digestive organs
+131,200,189,2024-05-26,Oth traumatic spondylolisthesis of second cervical vertebra
+132,84,63,2023-04-19,"Displ commnt fx shaft of l femr, 7thR"
+133,201,136,2023-10-26,Unspecified fracture of shaft of unspecified tibia
+134,240,74,2025-01-21,"Infct fol oth infusion, transfuse and theraputc injection"
+135,277,190,2024-12-31,Strain of extensor musc/fasc/tend thumb at wrs/hnd lv
+136,17,121,2024-08-07,"Crushing injury of unspecified wrist and hand, init encntr"
+137,166,48,2023-10-03,"Sltr-haris Type III physeal fx left metatarsal, 7thD"
+138,272,81,2024-04-01,"Other anterior dislocation of right hip, subs encntr"
+139,305,114,2023-09-01,Unspecified injury of lower back
+140,429,104,2025-01-30,Exostosis of unspecified orbit
+141,291,145,2024-09-21,"Asphyx due to being trap in a (discarded) refrig, acc, sqla"
+142,110,163,2024-10-27,"Displ seg fx shaft of unsp tibia, 7thM"
+143,129,141,2024-03-06,Athscl nonbiol bypass of the left leg w ulcer of unsp site
+144,234,200,2024-06-16,"Oth injuries of left shoulder and upper arm, sequela"
+145,381,141,2023-08-07,"Kaschin-Beck disease, right hand"
+146,278,182,2023-11-14,"Chronic follicular conjunctivitis, right eye"
+147,151,189,2024-10-18,Other congenital malformations of testis and scrotum
+148,340,163,2025-03-29,"Unspecified sprain of left foot, initial encounter"
+149,486,73,2024-10-31,"Burn second deg of shldr/up lmb, ex wrs/hnd, unsp site, init"
+150,371,12,2023-11-23,"Fall into oth water striking surfc causing drown, subs"
+151,421,78,2025-01-14,"Underdosing of opium, subsequent encounter"
+152,494,120,2024-06-09,"Mech compl of int fix of bones of foot and toes, init"
+153,320,19,2024-03-11,"Pedl cyc pasngr inj in clsn w nonmtr vehicle in traf, init"
+154,437,145,2024-09-23,"Ant subcapsular polar infantile and juvenile cataract, r eye"
+155,141,171,2025-03-27,"Oth psychoactv sub use, unsp w persist amnestic disorder"
+156,149,141,2024-06-03,"Subluxation of MTP joint of unsp toe(s), sequela"
+157,417,32,2023-05-21,"Nondisp fx of triquetrum bone, l wrs, subs for fx w nonunion"
+158,346,18,2023-11-30,Complete traumatic amputation of left ear
+159,441,25,2024-04-17,"Nondisp seg fx shaft of humer, unsp arm, 7thD"
+160,459,97,2023-09-06,"Stable burst fx T9-T10 vertebra, subs for fx w nonunion"
+161,130,139,2024-03-11,"Crushed by crocodile, sequela"
+162,336,26,2025-03-30,Sltr-haris Type IV physeal fracture of upper end of humerus
+163,85,1,2023-06-06,"Disp fx of fifth metatarsal bone, left foot, sequela"
+164,226,73,2023-06-19,Nondisplaced fracture of proximal phalanx of finger
+165,244,49,2024-05-06,"Unsp subluxation of left ulnohumeral joint, subs encntr"
+166,482,175,2025-02-12,Wandering in diseases classified elsewhere
+167,207,98,2023-09-21,Blastic NK-cell lymphoma
+168,53,93,2023-06-11,"Food in bronchus causing other injury, subsequent encounter"
+169,430,95,2024-11-01,"Air embolism fol infusion, tranfs and theraputc inject, init"
+170,59,88,2024-05-30,"Fall on board other powered watercraft, sequela"
+171,496,178,2024-05-19,"Nondisp lateral mass fx first cervcal vertebra, init"
+172,133,116,2024-10-11,Neuralgic amyotrophy
+173,409,130,2024-06-30,"Osteochondropathy, unspecified of forearm"
+174,326,100,2024-02-26,Idiopathic aseptic necrosis of right carpus
+175,64,106,2024-06-17,"Insect bite (nonvenomous) of unspecified ear, subs encntr"
+176,437,190,2024-07-18,"Toxic effect of trichloroethylene, assault, subs encntr"
+177,39,8,2024-06-11,"Burn of third degree of right axilla, sequela"
+178,91,119,2024-02-11,Calculus of ureter
+179,52,110,2024-12-23,"Maternal care for compound presentation, fetus 1"
+180,316,102,2025-03-27,"Unsp tear of unsp meniscus, current injury, right knee, init"
+181,418,138,2024-02-26,Injury of ulnar nerve at upper arm level
+182,373,136,2024-04-16,"Serous retinal detachment, bilateral"
+183,83,129,2023-09-10,"Poisoning by unsp psychodysleptics, self-harm, sequela"
+184,314,1,2024-01-06,"Nondisp segmental fx shaft of radius, unsp arm, sequela"
+185,127,160,2024-01-06,Progressive diaphyseal dysplasia
+186,495,175,2023-11-06,"Poisoning by other synthetic narcotics, assault, sequela"
+187,116,137,2024-01-27,"Nondisp fx of med phalanx of r lit fngr, 7thP"
+188,37,188,2024-03-13,Pnctr w/o foreign body of unsp eyelid and periocular area
+189,469,63,2024-09-18,"Unsp fx shaft of r tibia, 7thQ"
+190,122,113,2023-08-06,"Unsp inj musc/tend post grp at low leg lev, right leg, sqla"
+191,457,36,2025-03-03,"Passenger on bus injured in collision w hv veh nontraf, init"
+192,69,198,2024-09-06,"Walked into furniture, sequela"
+193,311,96,2023-09-16,"Superficial foreign body, left ankle"
+194,116,190,2023-09-23,"Asphyx due to smothering in furniture, undetermined, init"
+195,446,91,2023-12-11,Burn of unspecified degree of unspecified shoulder
+196,431,154,2025-02-13,"Path fx in neopltc disease, r tibia, subs for fx w malunion"
+197,218,161,2025-03-09,Contact with and (suspected) exposure to hazardous metals
+198,190,88,2023-12-18,Loose body in right ankle
+199,75,197,2024-06-11,"Underdosing of cardi-stim glycos/drug simlar act, sequela"
+200,222,104,2024-05-26,"Unsp traum displ spondylolysis of sixth cervcal vert, init"
+201,9,177,2024-07-19,"Anterior sublux of proximal end of tibia, right knee, subs"
+202,363,69,2023-06-30,"Legal intervnt w inj by handgun, law enforc offl inj, sqla"
+203,7,164,2024-07-18,Pnctr w foreign body of left great toe w damage to nail
+204,72,84,2023-07-11,"Nondisp fx of base of fifth metacarpal bone. left hand, init"
+205,443,17,2024-10-10,"Corrosion of 3rd deg mu sites of left ank/ft, sequela"
+206,29,86,2025-01-29,"Chondromalacia, left ankle and joints of left foot"
+207,60,6,2024-04-21,Personal history of malignant neoplasm of brain
+208,157,71,2023-07-09,"Subluxation of radiocarpal joint of unsp wrist, init encntr"
+209,14,59,2023-07-14,Unspecified entropion of right lower eyelid
+210,197,16,2023-04-22,Papilledema
+211,312,159,2024-12-20,Primary blast injury of ascending [right] colon
+212,4,155,2023-10-09,Corrosion of first deg mult sites of ankle and foot
+213,158,142,2023-08-30,"Breakdown of aortic (bifurcation) graft, sequela"
+214,144,186,2024-03-22,"Drowning and submersion due to fall off unpowr wtrcrft, init"
+215,218,191,2023-06-19,"Subluxation of L2/L3 lumbar vertebra, sequela"
+216,307,195,2023-10-09,Displaced fracture of medial condyle of unspecified tibia
+217,75,177,2024-11-26,Other specified injuries of unspecified hip
+218,89,160,2024-11-18,Wedge compression fracture of second thoracic vertebra
+219,383,49,2023-10-23,"Disp fx of base of nk of r femr, 7thJ"
+220,113,53,2024-11-08,"Other nondisp fx of base of first metacarpal bone, unsp hand"
+221,150,97,2023-04-17,"Oth extrartic fx low end r rad, 7thR"
+222,227,42,2024-07-08,Person on outside of sp off-rd mv injured nontraf
+223,13,178,2023-12-22,Displaced fracture of base of other metacarpal bone
+224,494,64,2024-08-30,"Glaucoma secondary to drugs, bilateral, severe stage"
+225,113,124,2024-07-29,"Displ spiral fx shaft of humer, r arm, 7thP"
+226,192,58,2024-04-23,"Sltr-haris Type IV physeal fx unspecified calcaneus, 7thG"
+227,431,120,2023-11-22,"Toxic effect of cyanides, intentional self-harm"
+228,398,61,2023-11-04,"Terrorism involving biolg weapons, civilian injured, sequela"
+229,67,142,2023-11-15,"Unspecified effects of vibration, sequela"
+230,38,54,2025-03-26,"External constriction of right shoulder, initial encounter"
+231,38,9,2023-05-05,"Disp fx of med cuneiform of l foot, subs for fx w malunion"
+232,25,117,2023-12-29,"Burn unsp deg mult sites of shldr/up lmb, ex wrs/hnd, init"
+233,112,113,2023-07-08,Asphyxiation due to mechanical threat to breathing
+234,150,150,2025-02-25,"Nondisp commnt fx shaft of r fibula, 7thC"
+235,337,9,2023-07-11,"Injury of musculocutaneous nerve, left arm, sequela"
+236,180,39,2023-07-17,"Poisoning by methylphenidate, undetermined, subs encntr"
+237,495,185,2023-05-12,"Surgical instrumnt, matrl and radiolog devices assoc w incdt"
+238,255,190,2023-04-25,Dislocation of MCP joint of right little finger
+239,120,163,2024-05-24,"Abrasion of left elbow, sequela"
+240,154,110,2025-02-17,Benign neoplasm of uterine tubes and ligaments
+241,263,82,2024-04-04,"Fracture of coronoid process of right mandible, 7thK"
+242,83,115,2024-10-09,Nondisp fx of lateral cuneiform of unspecified foot
+243,68,55,2025-02-15,"Maternal care for oth isoimmun, unsp trimester, fetus 1"
+244,118,99,2023-12-16,"Pasngr in hv veh injured in clsn w 2/3-whl mv nontraf, init"
+245,198,93,2024-11-15,"Colles' fx unsp radius, subs for clos fx w delay heal"
+246,181,35,2023-05-02,Embolism and thrombosis of other and unsp parts of aorta
+247,177,8,2025-03-14,Open bite of r bk wl of thorax w penet thoracic cavity
+248,416,97,2023-08-01,"Anaphylactic reaction due to vaccination, initial encounter"
+249,13,114,2024-09-29,"Complete traumatic amputation of unsp midfoot, subs encntr"
+250,414,23,2025-01-27,Occupant of streetcar injured in collisn/hit by roll stok
+251,424,77,2023-07-17,"Unspecified open wound of left elbow, sequela"
+252,280,127,2023-10-05,"I/I react d/t other prosth dev/grft in genital tract, subs"
+253,157,46,2023-12-09,"Laceration with foreign body of right hand, sequela"
+254,417,2,2024-12-06,"Unsp comp of fb acc left in body fol oth procedure, subs"
+255,35,39,2023-12-11,"Oth injury of blood vessel of unsp finger, subs encntr"
+256,456,81,2024-12-31,Cannabis abuse with psychotic disorder with delusions
+257,275,68,2023-08-16,"Anterior subluxation of r sternoclav jt, sequela"
+258,472,176,2023-04-27,"Kaschin-Beck disease, unspecified shoulder"
+259,121,159,2024-10-28,Bus occupant injured in collision w statnry object
+260,263,32,2023-05-25,Other contact with sea lion
+261,400,69,2024-11-20,"Exudative age-rel mclr degn, unsp, with inact chrdl neovas"
+262,269,117,2024-06-09,Displaced comminuted fracture of shaft of right tibia
+263,82,9,2025-02-21,"Chronic myelomonocytic leukemia, in relapse"
+264,406,112,2024-11-19,"Exposure of other implnt mesh into organ or tissue, sequela"
+265,250,91,2023-09-10,Burn of second degree of left toe(s) (nail)
+266,500,172,2024-10-01,Di George's syndrome
+267,35,135,2023-12-04,Burns of 80-89% of body surface w 70-79% third degree burns
+268,415,47,2024-06-04,"Unspecified injury of head, subsequent encounter"
+269,30,42,2023-09-01,"Crushing injury of right wrist and hand, sequela"
+270,467,66,2023-12-03,"Other physeal fracture of unspecified calcaneus, 7thD"
+271,472,92,2023-11-03,"Poisoning by, adverse effect of and underdosing of opium"
+272,54,67,2024-08-20,"Occupant of stcar injured by fall from streetcar, sequela"
+273,76,143,2023-09-28,Malignant neoplasm of ovrlp sites of left eye and adnexa
+274,190,55,2024-06-10,Dissection of unspecified site of aorta
+275,155,41,2023-06-30,"Sltr-haris Type II physeal fx phalanx of right toe, 7thK"
+276,150,130,2023-09-14,"Inj unsp musc/fasc/tend at thigh level, right thigh, init"
+277,343,25,2024-05-13,"Cocaine use, unsp w cocaine-induced psychotic disorder, unsp"
+278,147,36,2023-05-10,"Placenta accreta, first trimester"
+279,93,32,2024-12-05,"Breakdown (mechanical) of int fix of vertebrae, subs"
+280,154,167,2025-03-27,Calcium-channel blockers
+281,306,175,2024-07-28,"Corros unsp degree of single l finger except thumb, sqla"
+282,307,80,2023-06-15,"Subluxation of tarsometatarsal joint of unsp foot, subs"
+283,464,21,2024-01-17,"Displaced Maisonneuve's fracture of right leg, init"
+284,219,152,2024-01-03,"Lead-induced gout, right elbow"
+285,304,76,2024-12-15,"Foreign body in urethra, sequela"
+286,76,43,2023-07-14,Acute lacrimal canaliculitis
+287,99,43,2023-09-17,Subluxation of tarsal joint of left foot
+288,190,22,2024-06-20,"Poisn by emollients, demulcents and protect, assault, init"
+289,478,80,2023-12-11,"Primary blast injury of bronchus, unspecified, sequela"
+290,222,157,2023-11-21,"Epidural hemorrhage w LOC >24 hr w/o ret consc w surv, init"
+291,319,191,2023-10-12,Newborn affected by intrauterine (fetal) blood loss
+292,92,35,2023-05-05,"Pathological fracture in oth disease, left fibula, init"
+293,160,106,2023-08-14,"Multiple fractures of ribs, bi, subs for fx w routn heal"
+294,251,5,2023-06-23,Ntrm subarach hemor from unsp posterior communicating artery
+295,416,103,2024-08-25,"Fetal anemia and thrombocytopenia, third trimester, fetus 5"
+296,118,18,2024-09-17,"Toxic effect of unsp spider venom, accidental, sequela"
+297,67,148,2025-02-06,"Chronic osteomyelitis with draining sinus, left humerus"
+298,123,155,2023-12-04,"Ant displ Type II dens fracture, subs for fx w delay heal"
+299,389,101,2025-01-04,Other benign neoplasm of skin of trunk
+300,105,150,2023-07-14,"Fracture of one rib, right side, subs for fx w nonunion"
+301,49,117,2023-11-12,"Varus deformity, not elsewhere classified, ankle"
+302,115,137,2023-05-06,"Displ avuls fx (chip fracture) of r talus, 7thD"
+303,339,100,2023-10-14,"Torus fx lower end of unsp femur, subs for fx w delay heal"
+304,420,119,2023-07-22,Intentional self-harm by sharp object
+305,376,47,2023-10-07,"Disp fx of distal phalanx of oth finger, init for opn fx"
+306,10,158,2025-02-19,Refsum's disease
+307,170,76,2023-06-19,"Prsn brd/alit hv veh inj in clsn w hv veh wh brd/alit, init"
+308,147,19,2024-10-04,"Arthropathy following intestinal bypass, vertebrae"
+309,37,188,2024-05-03,Smallpox vaccines
+310,31,14,2024-10-16,Laceration with foreign body of lower back and pelvis
+311,197,121,2023-11-28,"Age-rel osteopor w crnt path fx, l humer, 7thD"
+312,187,74,2024-03-10,Sprain of ligaments of thoracic spine
+313,400,34,2024-02-25,"Nondisp apophyseal fx l femr, 7thM"
+314,469,66,2024-10-22,"Unsp injury of ulnar artery at wrs/hnd lv of left arm, subs"
+315,490,130,2024-02-20,"Pathological fracture, right tibia, subs for fx w delay heal"
+316,63,179,2023-04-18,"Nondisp unsp fx right great toe, subs for fx w malunion"
+317,379,112,2023-04-19,"Dislocation of unsp interphaln joint of right thumb, sequela"
+318,427,140,2024-03-20,"Pasngr in pk-up/van injured in clsn w unsp mv in traf, init"
+319,215,56,2023-10-16,"Fracture of alveolus of right mandible, sequela"
+320,255,71,2025-03-17,"Wrist drop, unspecified wrist"
+321,255,144,2023-06-16,"Other contact with goose, sequela"
+322,395,36,2023-11-20,Hodgkin lymphoma
+323,77,133,2023-09-23,Phenothiazine antipsychotics and neuroleptics
+324,60,71,2023-11-09,War operations involving nuclear weapons
+325,124,107,2024-03-28,"Periprosth fx around internal prosth l ankle joint, subs"
+326,181,113,2024-07-25,"Lacerat extn musc/fasc/tend l rng fngr at wrs/hnd lv, subs"
+327,90,52,2023-05-20,"Forced landing of balloon injuring occupant, subs encntr"
+328,330,96,2024-11-30,"Toxic effect of harmful algae and algae toxins, undet, sqla"
+329,135,151,2024-07-30,Superficial foreign body of other specified part of neck
+330,286,178,2025-02-15,"Prsn brd/alit pedl cyc injured in collision w hv veh, subs"
+331,66,170,2025-03-28,"Toxic eff of halgn deriv of aliphatic hydrocrb, acc, sqla"
+332,459,46,2025-01-30,Embolism and thrombosis of abdominal aorta
+333,324,150,2024-05-05,Other night blindness
+334,66,60,2023-05-29,"Ophthalmoplegic migraine, intractable"
+335,491,129,2023-07-15,Other vitamin B12 deficiency anemias
+336,348,76,2023-05-07,Osteochondritis dissecans knee
+337,281,138,2024-11-14,"Ankylosis, hip"
+338,2,156,2023-06-21,"Superficial foreign body, unspecified ankle, sequela"
+339,109,10,2024-02-18,Dislocation of metacarpophalangeal joint of left ring finger
+340,340,188,2024-12-05,Salter-Harris Type IV physeal fracture of calcaneus
+341,302,77,2024-05-22,"Inj blood vessel of right middle finger, subs encntr"
+342,256,95,2025-02-24,Plasmodium falciparum malaria
+343,38,178,2024-01-01,"Pnctr of abd wall w/o fb, l upr q w/o penet perit cav"
+344,477,14,2025-03-19,"Other secondary osteonecrosis, shoulder"
+345,181,178,2024-08-02,"Sltr-haris Type II physl fx low end humer, r arm, 7thP"
+346,347,188,2024-03-09,"Laceration of popliteal artery, left leg, sequela"
+347,98,100,2024-02-08,"Scooter (nonmotorized) colliding w stationary object, subs"
+348,386,76,2025-03-15,"Displ midcervical fx r femr, 7thN"
+349,459,25,2024-08-06,Encounter for pregnancy test
+350,177,51,2023-11-16,"Disp fx of nk of scapula, l shldr, subs for fx w routn heal"
+351,204,43,2024-06-01,"Mix cndct/snrl hear loss,uni,r ear w rstrcd hear cntra side"
+352,12,12,2023-12-31,"Terrorism involving chemical weapons, terrorist injured"
+353,420,129,2024-01-10,"Unspecified keratoconjunctivitis, bilateral"
+354,90,7,2025-01-30,"Pressure ulcer of left heel, stage 1"
+355,438,191,2023-10-11,"Nondisp commnt fx shaft of unsp tibia, 7thE"
+356,487,73,2023-05-09,"Vitiligo of left eye, unspecified eyelid and periocular area"
+357,293,152,2023-10-22,"Corrosion of first degree of abdominal wall, init encntr"
+358,18,53,2023-04-19,"Other hypertrophic osteoarthropathy, lower leg"
+359,337,113,2025-03-04,"Sprain of radiocarpal joint of right wrist, sequela"
+360,390,147,2025-03-15,"Fracture of oth skull and facial bones, right side, 7thD"
+361,494,41,2023-09-07,"Juvenile rheumatoid arthritis with systemic onset, left knee"
+362,473,39,2023-07-06,Chronic embolism and thombos unsp veins of r up extrem
+363,62,17,2024-12-04,"Other specified osteochondropathies, left thigh"
+364,298,189,2024-10-03,"Nondisp oblique fx shaft of unsp fibula, 7thN"
+365,7,50,2024-11-07,Post-traumatic stress disorder (PTSD)
+366,185,62,2023-08-14,"Labor and delivery complicated by prolapse of cord, fetus 3"
+367,272,113,2023-09-21,"Post-traumatic osteoarthritis, left shoulder"
+368,363,188,2023-06-08,"Burn due to loc fire on board oth powered wtrcrft, sequela"
+369,246,128,2023-12-11,"Nondisp commnt fx shaft of r femr, 7thR"
+370,164,184,2025-01-18,"Contusion of left thumb without damage to nail, init encntr"
+371,295,130,2023-06-07,"Milt op involving explosn of marine weapons, civilian, subs"
+372,69,170,2024-07-24,Athscl native arteries of extremities w ulceration
+373,334,179,2023-11-14,"Other injury of liver, subsequent encounter"
+374,132,9,2024-12-28,Corros 30-39% of body surface w 30-39% third degree corros
+375,61,195,2024-12-31,"Juvenile rheumatoid arthritis w systemic onset, right elbow"
+376,168,89,2023-11-03,"Contusion of unspecified upper arm, sequela"
+377,332,9,2025-02-24,"Oth fx low end r tibia, 7thF"
+378,406,10,2025-02-24,Other specified intracranial injury
+379,318,120,2023-10-03,"Oth slipping, tripping and stumbling w/o falling, subs"
+380,55,155,2024-05-09,"Displ transverse fx l patella, subs for clos fx w routn heal"
+381,393,177,2024-04-02,"Migraine, unsp, intractable, without status migrainosus"
+382,443,175,2024-10-23,"Insect bite (nonvenomous) of breast, right breast, init"
+383,46,168,2025-01-29,"Subluxation of unspecified ankle joint, initial encounter"
+384,498,67,2025-02-20,"Displ seg fx shaft of humer, l arm, subs for fx w delay heal"
+385,241,116,2023-05-24,"Displ suprcndl fx w/o intrcndl extn low end l femr, 7thM"
+386,99,14,2025-01-22,"Intcran inj w LOC w death due to brain injury bf consc, sqla"
+387,342,10,2024-02-02,Open bite of left great toe with damage to nail
+388,353,142,2024-09-28,"Oth fracture of right femur, init for opn fx type 3A/B/C"
+389,106,107,2023-09-22,"Poisoning by calcium-channel blockers, undetermined, subs"
+390,190,165,2023-12-20,"Osteomyelitis of vertebra, cervicothoracic region"
+391,11,173,2024-06-12,Cystostomy infection
+392,351,183,2023-08-29,Cardiac failure due to anesthesia during pregnancy
+393,382,21,2023-07-05,Hypermobility of urethra
+394,454,97,2024-12-27,"Inj extensor musc/fasc/tend r idx fngr at forarm lv, subs"
+395,32,174,2023-10-26,"Papovavirus infection, unspecified"
+396,363,72,2024-10-20,"Nondisp fx of anterior wall of right acetabulum, sequela"
+397,16,18,2025-03-04,Forced landing of private fix-wing arcrft injuring occupant
+398,220,183,2025-03-13,Greenstick fracture of shaft of right ulna
+399,355,159,2023-12-05,Other inflammatory diseases of prepuce
+400,58,197,2025-02-09,Contusion of head of pancreas
+401,406,168,2024-05-23,"Unspecified subluxation of right little finger, subs encntr"
+402,76,132,2023-05-29,"Burn of first degree of right toe(s) (nail), init encntr"
+403,45,8,2023-11-10,Childhood onset fluency disorder
+404,121,119,2024-05-09,"Nondisp fx of neck of scapula, unspecified shoulder"
+405,439,137,2023-05-02,"Malignant neoplasm of corpus uteri, unspecified"
+406,31,96,2023-12-22,"Unsp open wound of left little finger w damage to nail, subs"
+407,317,83,2023-04-14,Encounter for preprocedural laboratory examination
+408,353,179,2025-01-02,"Oth osteopor w crnt path fx, unsp femr, 7thD"
+409,336,180,2023-08-26,"Corrosion of third degree of unsp forearm, init encntr"
+410,17,167,2023-07-07,"Oth fx shaft of rad, r arm, 7thQ"
+411,218,69,2023-10-03,"Type 1 diab with severe nonp rtnop without mclr edema, unsp"
+412,357,137,2023-10-24,"Poisoning by predom beta-adrenocpt agonists, self-harm, init"
+413,103,146,2024-06-08,Crushing injury of great toe
+414,388,171,2024-12-31,"Pnctr w fb of abd wall, l upr q w penet perit cav, subs"
+415,129,118,2023-10-29,Tuberculosis of eye
+416,384,145,2024-01-09,Burn due to localized fire on board unspecified watercraft
+417,13,2,2023-05-01,"Dislocation of unsp interphaln joint of r idx fngr, sequela"
+418,366,20,2024-12-11,"Disp fx of neck of fourth MC bone, right hand, sequela"
+419,262,41,2024-04-21,"Posterior synechiae (iris), right eye"
+420,223,195,2025-01-22,Calculus of gallbladder w/o cholecystitis w/o obstruction
+421,277,55,2025-01-14,"Subluxation of L3/L4 lumbar vertebra, initial encounter"
+422,245,4,2024-11-17,"Nondisp fx of low epiphy (separation) of l femr, 7thR"
+423,98,75,2025-02-23,"Other specified bursopathies, left hip"
+424,335,98,2024-11-14,Malignant neoplasm of right cornea
+425,320,167,2024-02-08,"Poisoning by androgens and anabolic congeners, assault, init"
+426,119,58,2024-07-17,"Nondisp fx of left tibial spine, subs for clos fx w malunion"
+427,23,171,2024-08-06,"Lacerat blood vessels at hip and thigh level, right leg"
+428,124,50,2024-05-02,"Postp hemor, hematoma & seroma of circ sys org fol oth proc"
+429,57,61,2023-09-19,"Nondisp fx of neck of first metacarpal bone, unsp hand"
+430,441,186,2024-09-18,"Unspecified open wound of unspecified part of head, sequela"
+431,68,177,2024-04-18,"Other secondary chronic gout, right hand, with tophus"
+432,396,120,2024-10-13,"Nondisp intertroch fx unsp femr, 7thR"
+433,61,31,2025-02-08,"Flail chest, initial encounter for closed fracture"
+434,236,126,2023-11-20,"Oth injury of unsp blood vessel of thorax, init encntr"
+435,379,11,2023-12-04,"Driver of 3-whl mv inj in clsn w unsp mv in traf, sequela"
+436,292,112,2025-01-23,Conjunctival granuloma
+437,495,47,2024-06-04,"Burn of second degree of right toe(s) (nail), init encntr"
+438,100,178,2025-03-20,"Nondisp fx of r ulna styloid pro, 7thC"
+439,74,78,2024-03-17,"Pathological fracture in other disease, left radius, sequela"
+440,340,184,2024-05-21,"Open bite of r bk wl of thorax w penet thoracic cavity, init"
+441,294,132,2023-07-16,Orthopnea
+442,235,69,2025-01-03,"Nondisp spiral fx shaft of humerus, left arm, sequela"
+443,187,142,2023-11-12,"Nondisp fx of med malleolus of unsp tibia, 7thP"
+444,204,130,2025-01-21,"Inj lesser saphenous vein at lower leg level, unsp leg, subs"
+445,483,19,2023-07-23,"Exposure to bed fire due to burning cigarette, init encntr"
+446,99,2,2023-08-09,Strain of extensor musc/fasc/tend l idx fngr at wrs/hnd lv
+447,176,159,2024-06-10,"Exhaustion due to excessive exertion, initial encounter"
+448,127,30,2024-09-10,Other secondary osteonecrosis of left carpus
+449,429,161,2023-06-17,"Open bite of left middle finger w damage to nail, subs"
+450,107,141,2025-03-29,"Open bite of abd wall, epigst rgn w penet perit cav, subs"
+451,78,48,2024-06-11,Assault by other firearm discharge
+452,172,70,2023-05-12,"Toxic effect of carbon tetrachloride, accidental"
+453,103,193,2024-08-13,"Partial placenta previa with hemorrhage, third trimester"
+454,467,169,2024-07-29,"Unspecified injury of peroneal artery, right leg, sequela"
+455,95,177,2024-04-09,Encounter for therapeutic drug level monitoring
+456,330,106,2024-03-05,Laceration without foreign body of upper arm
+457,418,95,2023-07-20,"Penetrating wound of orbit w or w/o foreign body, left eye"
+458,269,125,2024-03-19,"Person outsd pk-up/van inj in clsn w pedl cyc in traf, subs"
+459,162,149,2023-06-02,"Arcus senilis, unspecified eye"
+460,149,61,2024-05-15,Malig neoplasm of scapula and long bones of left upper limb
+461,456,122,2024-01-26,Xanthelasma of right upper eyelid
+462,440,7,2024-11-03,"Other mastoiditis and related conditions, right ear"
+463,155,138,2024-11-04,"Driver of bus injured in clsn w unsp mv in traf, sequela"
+464,109,13,2023-09-10,"Idiopathic chronic gout, unspecified elbow, with tophus"
+465,3,13,2023-05-26,Oth spon disrupt of posterior cruciate ligament of unsp knee
+466,69,68,2024-06-10,"Pathological fracture in other disease, left foot"
+467,414,56,2023-11-09,"Poisoning by antiallerg/antiemetic, self-harm, init"
+468,219,145,2023-08-24,Other noninfective acute otitis externa
+469,460,6,2023-04-21,Amebic cystitis
+470,42,167,2024-06-06,"Displ commnt fx shaft of rad, r arm, 7thF"
+471,300,190,2024-02-07,"Nondisp spiral fx shaft of unsp femr, 7thQ"
+472,17,191,2025-02-22,"Other specified arthritis, unspecified hip"
+473,55,78,2023-05-06,Immunization not carried out because of patient refusal
+474,405,134,2023-12-27,"Burn of third degree of lower back, sequela"
+475,9,140,2024-03-24,Nondisp fx of proximal phalanx of left little finger
+476,117,190,2023-10-22,"Dislocation of tarsal joint of right foot, sequela"
+477,363,151,2024-11-29,"Prsn brd/alit hv veh injured pick-up truck, pk-up/van, init"
+478,236,189,2024-07-31,Alternating heterophoria
+479,348,196,2024-06-01,Unsp psychostimulant
+480,152,168,2023-12-29,"Accident to, on or w cable-car, not on rails, sequela"
+481,480,149,2023-05-19,"Corrosion of unsp degree of right upper arm, subs encntr"
+482,228,114,2023-07-10,Unspecified open wound of cheek and temporomandibular area
+483,469,83,2023-10-18,Other specified diseases of biliary tract
+484,277,69,2023-06-18,Melanoma in situ of scalp and neck
+485,80,200,2024-01-21,"Torus fracture of lower end of right humerus, sequela"
+486,456,125,2025-02-16,"Other early complications of trauma, initial encounter"
+487,62,117,2024-07-30,"Adverse effect of thyroid hormones and substitutes, sequela"
+488,367,169,2025-03-29,"Congenital malformation of upper alimentary tract, unsp"
+489,435,30,2023-10-19,"Toxic effect of venom of tarantula, accidental"
+490,397,98,2025-03-23,Unsp maternal infec/parastc disease comp the puerperium
+491,207,181,2025-01-20,"Idiopathic chronic gout, left wrist, without tophus (tophi)"
+492,228,75,2023-12-04,Toxic effects of benzene
+493,409,193,2024-10-02,"Oth complications of labor and delivery, NEC"
+494,492,164,2024-05-03,"Fatigue fracture of vertebra, sacr/sacrocygl region"
+495,391,159,2023-05-05,"Laceration of descending [left] colon, sequela"
+496,387,162,2025-02-23,"Nondisplaced Maisonneuve's fracture of left leg, init"
+497,246,4,2025-01-25,"Other disorders of continuity of bone, ankle and foot"
+498,99,176,2024-02-19,"Aneurysmal bone cyst, unspecified hand"
+499,357,194,2024-05-08,Chronic embolism and thrombosis of unspecified vein
+500,310,103,2024-05-18,"Toxic effect of rattlesnake venom, assault"
